@@ -2,6 +2,12 @@
 Eclipse ADT | Versão França
 
 ![Static Badge](https://img.shields.io/badge/development-abap-blue)
+![Static Badge](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/ABAP-0FAAFF?logo=sap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Eclipse_ADT-2C2255?logo=eclipse&logoColor=white)
+![Static Badge](https://img.shields.io/badge/BTP-0FAAFF?logo=sap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Cloud-0089D6?logo=sap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SAP_DevOps-FF4081?logo=sap&logoColor=white)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/eclipse-franca)
 
 Este repositório contém uma versão personalizada do Eclipse ADT com plugins pré-configurados para desenvolvimento ABAP. As atualizações serão realizadas de forma controlada para garantir a estabilidade do ambiente.
