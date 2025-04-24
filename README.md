@@ -9,8 +9,28 @@ Eclipse ADT | Versão França
 ![Static Badge](https://img.shields.io/badge/Cloud-0089D6?logo=sap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SAP_DevOps-FF4081?logo=sap&logoColor=white)
 ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/eclipse-franca)
+[![ABAP Cleaner](https://img.shields.io/github/stars/SAP/abap-cleaner?label=ABAP%20Cleaner&style=social)](https://github.com/SAP/abap-cleaner)
 
 Este repositório contém uma versão personalizada do Eclipse ADT com plugins pré-configurados para desenvolvimento ABAP. As atualizações serão realizadas de forma controlada para garantir a estabilidade do ambiente.
+
+### ABAP Cleaner
+
+O ABAP Cleaner é uma ferramenta essencial para desenvolvedores ABAP que automatiza a formatação e melhoria do código. 
+
+**Principais benefícios:**
+- Formatação consistente do código ABAP
+- Alinhamento automático de declarações e operações
+- Remoção de espaços em branco desnecessários
+- Organização de declarações de variáveis
+- Melhoria na legibilidade do código
+- Aplicação de boas práticas de desenvolvimento
+
+**Instalação:**
+1. No Eclipse, vá para Help → Install New Software
+2. Adicione o repositório: https://sap.github.io/abap-cleaner/updatesite
+3. Selecione "ABAP Cleaner" e complete a instalação
+
+Para mais informações, visite o [repositório oficial](https://github.com/SAP/abap-cleaner).
 
 ### Plugins Instalados
 
