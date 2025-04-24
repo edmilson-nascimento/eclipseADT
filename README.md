@@ -1,4 +1,4 @@
-# Eclipse-Franca
+# Eclipse ADT | Versão França
 Eclipse ADT | Versão França
 
 ![Static Badge](https://img.shields.io/badge/development-abap-blue)
@@ -8,10 +8,8 @@ Eclipse ADT | Versão França
 ![Static Badge](https://img.shields.io/badge/BTP-0FAAFF?logo=sap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Cloud-0089D6?logo=sap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/SAP_DevOps-FF4081?logo=sap&logoColor=white)
-![GitHub Commits](https://img.shields.io/github/commit-activity/m/edmilson-nascimento/eclipse-franca)
 <!-- ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/eclipse-franca) -->
-<!-- ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/abap-7.4) -->
-![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/Eclipse-Franca)
+<!-- ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/t/edmilson-nascimento/Eclipse-Franca) -->
 [![ABAP Cleaner](https://img.shields.io/github/stars/SAP/abap-cleaner?label=ABAP%20Cleaner&style=social)](https://github.com/SAP/abap-cleaner)
 
 Este repositório contém uma versão personalizada do Eclipse ADT com plugins pré-configurados para desenvolvimento ABAP. As atualizações serão realizadas de forma controlada para garantir a estabilidade do ambiente.
