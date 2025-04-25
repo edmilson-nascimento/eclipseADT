@@ -1,0 +1,28 @@
+!SESSION 2024-11-17 15:23:46.387 -----------------------------------------------
+eclipse.buildId=4.33.0.20240905-0613
+java.version=21.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-11-17 15:24:01.523
+!MESSAGE Both 'com.sap.adt.activation' and 'com.sap.adt.activation' register a package for 'http://www.sap.com/abapxml/checklist'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-11-17 15:24:01.551
+!MESSAGE Both 'com.sap.adt.tools.core' and 'com.sap.adt.tools.core' register a package for 'http://www.sap.com/adt/checkrun'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-11-17 15:24:01.555
+!MESSAGE Both 'org.abapgit.adt.backend' and 'com.sap.adt.tools.core.base' register a package for 'http://www.w3.org/2005/Atom'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-11-17 15:24:01.585
+!MESSAGE Both 'com.sap.adt.activation' and 'com.sap.adt.activation' register an extension parser for 'checklist'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-11-17 15:24:01.588
+!MESSAGE Both 'com.sap.adt.tools.core' and 'com.sap.adt.tools.core' register an extension parser for 'checkrun'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-11-17 15:24:01.589
+!MESSAGE Both 'org.abapgit.adt.backend' and 'com.sap.adt.tools.core.base' register an extension parser for 'atom'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-11-17 15:24:02.231
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.

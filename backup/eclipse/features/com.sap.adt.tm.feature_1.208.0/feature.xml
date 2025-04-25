@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.sap.adt.tm.feature"
+      label="%featureName"
+      version="1.208.0"
+      provider-name="%providerName"
+      plugin="com.sap.adt.branding">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="">
+      %license
+   </license>
+
+   <requires>
+      <import feature="com.sap.adt.tools" version="1.4.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="com.sap.adt.tm.ui"
+         download-size="1154"
+         install-size="2411"
+         version="1.208.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.tm.model"
+         download-size="292"
+         install-size="766"
+         version="1.208.0"
+         unpack="false"/>
+
+</feature>

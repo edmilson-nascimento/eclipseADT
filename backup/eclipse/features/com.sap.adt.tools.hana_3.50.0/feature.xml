@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.sap.adt.tools.hana"
+      label="%featureName"
+      version="3.50.0"
+      provider-name="%providerName"
+      plugin="com.sap.adt.branding">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="">
+      %license
+   </license>
+
+   <requires>
+      <import feature="com.sap.adt.tools" version="1.5.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="com.sap.adt.hana.guide.doc.user"
+         download-size="15714"
+         install-size="16803"
+         version="3.39.200"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.hana.guide.doc.user.ext"
+         download-size="14"
+         install-size="29"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.nhi.core"
+         download-size="27"
+         install-size="44"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.nhi.core.ui"
+         download-size="74"
+         install-size="130"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.nhi.model"
+         download-size="46"
+         install-size="102"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.ddic.sqlscripts"
+         download-size="99"
+         install-size="210"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.ddic.sqlscripts.ui"
+         download-size="198"
+         install-size="405"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.ddic.tools.core.ui"
+         download-size="45"
+         install-size="83"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.ddic.view"
+         download-size="81"
+         install-size="166"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.ddic.view.ui"
+         download-size="102"
+         install-size="197"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.hta.hdi"
+         download-size="170"
+         install-size="404"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.hta.hdi.ui"
+         download-size="210"
+         install-size="389"
+         version="3.50.0"
+         unpack="false"/>
+
+</feature>

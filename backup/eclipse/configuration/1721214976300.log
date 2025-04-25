@@ -1,0 +1,16 @@
+!SESSION 2024-07-17 12:16:15.942 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-07-17 12:16:25.144
+!MESSAGE Both 'com.sap.adt.tools.core.base' and 'org.abapgit.adt.backend' register a package for 'http://www.w3.org/2005/Atom'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2024-07-17 12:16:25.166
+!MESSAGE Both 'com.sap.adt.tools.core.base' and 'org.abapgit.adt.backend' register an extension parser for 'atom'
+
+!ENTRY ch.qos.logback.classic 1 0 2024-07-17 12:16:25.626
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.

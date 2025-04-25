@@ -1,0 +1,25 @@
+!SESSION 2025-04-24 16:58:18.079 -----------------------------------------------
+eclipse.buildId=4.35.0.20250306-0811
+java.version=21.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-04-24 16:58:42.183
+!MESSAGE Both 'com.sap.adt.testdoubles.cds.model' and 'com.sap.adt.testdoubles.cds.model' register a package for 'http://www.sap.com/adt/dbtestdoubles/cds/testcases'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-04-24 16:58:42.192
+!MESSAGE Both 'com.sap.adt.tools.core.base' and 'org.abapgit.adt.backend' register a package for 'http://www.w3.org/2005/Atom'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-04-24 16:58:42.202
+!MESSAGE Both 'com.sap.adt.testdoubles.cds.model' and 'com.sap.adt.testdoubles.cds.model' register an extension parser for 'cdstestcases'
+
+!ENTRY org.eclipse.emf.ecore 2 0 2025-04-24 16:58:42.204
+!MESSAGE Both 'com.sap.adt.tools.core.base' and 'org.abapgit.adt.backend' register an extension parser for 'atom'
+
+!ENTRY ch.qos.logback.classic 1 0 2025-04-24 16:58:42.476
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.lemminx.uber-jar 4 0 2025-04-24 16:58:42.881
+!MESSAGE bundle org.eclipse.lemminx.uber-jar:0.29.0 (2039) Component descriptor entry 'OSGI-INF/*.xml' not found

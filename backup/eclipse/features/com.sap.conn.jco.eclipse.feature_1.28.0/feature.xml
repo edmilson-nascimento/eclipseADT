@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.sap.conn.jco.eclipse.feature"
+      label="%featureName"
+      version="1.28.0"
+      provider-name="%providerName">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="">
+      %license
+   </license>
+
+   <plugin
+         id="com.sap.conn.jco"
+         download-size="1582"
+         install-size="3196"
+         version="3.1.11"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.conn.jco.linux.x86_64"
+         os="linux"
+         arch="x86_64"
+         download-size="2301"
+         install-size="5711"
+         version="3.1.11"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.conn.jco.win32.x86_64"
+         os="win32"
+         arch="x86_64"
+         download-size="4298"
+         install-size="13079"
+         version="3.1.11"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.conn.jco.macosx.x86_64"
+         os="macosx"
+         arch="x86_64"
+         download-size="2359"
+         install-size="6684"
+         version="3.1.11"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.conn.jco.macosx.aarch64"
+         os="macosx"
+         arch="aarch64"
+         download-size="2184"
+         install-size="6338"
+         version="3.1.11"
+         fragment="true"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.js.passport.api"
+         download-size="38"
+         install-size="71"
+         version="1.6.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.conn.jco.eclipse"
+         download-size="36"
+         install-size="63"
+         version="1.28.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.conn.jco.eclipse.ui"
+         download-size="27"
+         install-size="47"
+         version="1.28.0"
+         unpack="false"/>
+
+</feature>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1731857016838" transient="false" version="3.0">
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="org.eclipse.mylyn.github.feature" version="6.5.0.v20240711-1016" url="features/org.eclipse.mylyn.github.feature_6.5.0.v20240711-1016/" plugin-identifier="org.eclipse.mylyn.tasks.core">
+		</feature>
+		<feature id="org.eclipse.oomph.setup" version="1.33.0.v20240826-0747" url="features/org.eclipse.oomph.setup_1.33.0.v20240826-0747/">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.notifications.feature" version="4.4.0.v20240828-0218" url="features/org.eclipse.mylyn.commons.notifications.feature_4.4.0.v20240828-0218/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.wst.ws_userdoc.feature" version="3.1.501.v201909051708" url="features/org.eclipse.wst.ws_userdoc.feature_3.1.501.v201909051708/">
+		</feature>
+		<feature id="org.eclipse.mylyn.jenkins.feature" version="4.4.0.v20240708-0640" url="features/org.eclipse.mylyn.jenkins.feature_4.4.0.v20240708-0640/" plugin-identifier="org.eclipse.mylyn.builds.core">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.feature" version="3.14.1900.v20240812-1535" url="features/org.eclipse.ecf.filetransfer.feature_3.14.1900.v20240812-1535/">
+		</feature>
+		<feature id="org.eclipse.mylyn.jdt.feature" version="4.4.0.v20240617-1534" url="features/org.eclipse.mylyn.jdt.feature_4.4.0.v20240617-1534/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="net.sourceforge.vrapper" version="0.74.0" url="features/net.sourceforge.vrapper_0.74.0/">
+		</feature>
+		<feature id="org.eclipse.jgit.ssh.apache" version="7.0.0.202409031743-r" url="features/org.eclipse.jgit.ssh.apache_7.0.0.202409031743-r/">
+		</feature>
+		<feature id="com.sap.adt.tools.iam" version="3.46.0" url="features/com.sap.adt.tools.iam_3.46.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.emf.databinding.edit" version="1.12.0.v20240604-0832" url="features/org.eclipse.emf.databinding.edit_1.12.0.v20240604-0832/">
+		</feature>
+		<feature id="org.eclipse.wildwebdeveloper.xml.feature" version="1.3.5.202408121113" url="features/org.eclipse.wildwebdeveloper.xml.feature_1.3.5.202408121113/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.core.feature" version="1.7.300.v20240801-1024" url="features/org.eclipse.equinox.p2.core.feature_1.7.300.v20240801-1024/">
+		</feature>
+		<feature id="org.eclipse.mylyn.monitor.feature" version="4.4.0.v20240617-1534" url="features/org.eclipse.mylyn.monitor.feature_4.4.0.v20240617-1534/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.mylyn.ide.feature" version="4.4.0.v20240617-1534" url="features/org.eclipse.mylyn.ide.feature_4.4.0.v20240617-1534/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.discovery.feature" version="1.3.500.v20240803-1337" url="features/org.eclipse.equinox.p2.discovery.feature_1.3.500.v20240803-1337/">
+		</feature>
+		<feature id="org.abapgit.adt.feature" version="1.7.11" url="features/org.abapgit.adt.feature_1.7.11/">
+		</feature>
+		<feature id="com.sap.adt.pitools" version="1.196.0" url="features/com.sap.adt.pitools_1.196.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.e4.rcp" version="4.33.0.v20240903-0618" url="features/org.eclipse.e4.rcp_4.33.0.v20240903-0618/">
+		</feature>
+		<feature id="org.eclipse.epp.mpc" version="1.11.0.v20240709-1650" url="features/org.eclipse.epp.mpc_1.11.0.v20240709-1650/" plugin-identifier="org.eclipse.epp.mpc.ui">
+		</feature>
+		<feature id="com.sap.adt.tools.cds.base" version="3.46.0" url="features/com.sap.adt.tools.cds.base_3.46.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="com.abapblog.adt.extension.feature" version="1.0.7.202308202221" url="features/com.abapblog.adt.extension.feature_1.0.7.202308202221/" plugin-identifier="com.abapblog.branding">
+		</feature>
+		<feature id="org.eclipse.mylyn.builds.feature" version="4.4.0.v20240617-1534" url="features/org.eclipse.mylyn.builds.feature_4.4.0.v20240617-1534/" plugin-identifier="org.eclipse.mylyn.builds.core">
+		</feature>
+		<feature id="com.sap.adt.fwk.ci" version="3.46.0" url="features/com.sap.adt.fwk.ci_3.46.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="com.sap.adt.wda.core.devedition" version="1.196.0" url="features/com.sap.adt.wda.core.devedition_1.196.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="com.sap.adt.tools.ddic" version="3.46.0" url="features/com.sap.adt.tools.ddic_3.46.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.wst.ws_ui.feature" version="3.35.0.v202407071526" url="features/org.eclipse.wst.ws_ui.feature_3.35.0.v202407071526/">
+		</feature>
+		<feature id="com.sap.adt.tools.debug" version="3.46.0" url="features/com.sap.adt.tools.debug_3.46.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.help" version="2.3.1900.v20240903-0240" url="features/org.eclipse.help_2.3.1900.v20240903-0240/" plugin-identifier="org.eclipse.help.base">
+		</feature>
+		<feature id="org.eclipse.eclemma.feature" version="3.1.9.202405260028" url="features/org.eclipse.eclemma.feature_3.1.9.202405260028/" plugin-identifier="org.eclipse.eclemma.ui">
+		</feature>
+		<feature id="com.sap.adt.tools.hana.devedition" version="3.46.0" url="features/com.sap.adt.tools.hana.devedition_3.46.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.m2e.lemminx.feature" version="2.0.600.20240219-1707" url="features/org.eclipse.m2e.lemminx.feature_2.0.600.20240219-1707/">
+		</feature>
+		<feature id="com.genuitec.eclipse.theming.core.feature" version="2024.3.0.202409191846" url="features/com.genuitec.eclipse.theming.core.feature_2024.3.0.202409191846/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.control.feature" version="11.6.1.202407022003" url="features/org.eclipse.tm.terminal.control.feature_11.6.1.202407022003/" plugin-identifier="org.eclipse.tm.terminal.control">
+		</feature>
+		<feature id="com.genuitec.eclipse.theming.feature" version="2024.3.0.202409191846" url="features/com.genuitec.eclipse.theming.feature_2024.3.0.202409191846/">
+		</feature>
+		<feature id="ABAP_Favorites_Feature_Project" version="1.0.64.202405241612" url="features/ABAP_Favorites_Feature_Project_1.0.64.202405241612/" plugin-identifier="com.abapblog.branding">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.connector.local.feature" version="11.6.1.202406241230" url="features/org.eclipse.tm.terminal.connector.local.feature_11.6.1.202406241230/">
+		</feature>
+		<feature id="com.github.matf.relativenumberruler.feature" version="1.4.0.202309041254" url="features/com.github.matf.relativenumberruler.feature_1.4.0.202309041254/">
+		</feature>
+		<feature id="org.eclipse.jgit" version="7.0.0.202409031743-r" url="features/org.eclipse.jgit_7.0.0.202409031743-r/">
+		</feature>
+		<feature id="org.eclipse.oomph.setup.core" version="1.31.0.v20240723-0951" url="features/org.eclipse.oomph.setup.core_1.31.0.v20240723-0951/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.rcp.feature" version="1.4.2500.v20240801-1024" url="features/org.eclipse.equinox.p2.rcp.feature_1.4.2500.v20240801-1024/">
+		</feature>
+		<feature id="org.eclipse.jdt.bcoview.feature" version="1.2.500.v20240702-1918" url="features/org.eclipse.jdt.bcoview.feature_1.2.500.v20240702-1918/">
+		</feature>
+		<feature id="org.eclipse.tips.feature" version="0.4.400.v20240525-0701" url="features/org.eclipse.tips.feature_0.4.400.v20240525-0701/">
+		</feature>
+		<feature id="com.sap.adt.tools.testdoubles" version="1.131.0" url="features/com.sap.adt.tools.testdoubles_1.131.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.ecf.core.feature" version="1.6.2.v20240812-1535" url="features/org.eclipse.ecf.core.feature_1.6.2.v20240812-1535/">
+		</feature>
+		<feature id="com.sap.adt.tools.com" version="3.46.0" url="features/com.sap.adt.tools.com_3.46.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="com.sap.adt.tools.hana" version="3.46.0" url="features/com.sap.adt.tools.hana_3.46.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="com.sap.adt.tools.bopf.devedition" version="1.180.0" url="features/com.sap.adt.tools.bopf.devedition_1.180.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.mylyn.git.feature" version="4.4.0.v20240617-1534" url="features/org.eclipse.mylyn.git.feature_4.4.0.v20240617-1534/" plugin-identifier="org.eclipse.mylyn.versions.core">
+		</feature>
+		<feature id="org.eclipse.ecf.core.ssl.feature" version="1.1.600.v20240812-1535" url="features/org.eclipse.ecf.core.ssl.feature_1.1.600.v20240812-1535/">
+		</feature>
+		<feature id="com.genuitec.eclipse.codetogether.feature" version="2024.3.1.202407230323" url="features/com.genuitec.eclipse.codetogether.feature_2024.3.1.202407230323/">
+		</feature>
+		<feature id="org.eclipse.jgit.http.apache" version="7.0.0.202409031743-r" url="features/org.eclipse.jgit.http.apache_7.0.0.202409031743-r/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.connector.telnet.feature" version="11.6.1.202406241230" url="features/org.eclipse.tm.terminal.connector.telnet.feature_11.6.1.202406241230/">
+		</feature>
+		<feature id="org.eclipse.mylyn.context.feature" version="4.4.0.v20240617-1534" url="features/org.eclipse.mylyn.context.feature_4.4.0.v20240617-1534/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="org.eclipse.epp.package.java.feature" version="4.33.0.20240905-0613" url="features/org.eclipse.epp.package.java.feature_4.33.0.20240905-0613/" plugin-identifier="org.eclipse.epp.package.java">
+		</feature>
+		<feature id="org.eclipse.justj.epp" version="21.0.0.v20241024-0603" url="features/org.eclipse.justj.epp_21.0.0.v20241024-0603/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.feature" version="11.6.1.202406241230" url="features/org.eclipse.tm.terminal.feature_11.6.1.202406241230/" plugin-identifier="org.eclipse.tm.terminal.view.core">
+		</feature>
+		<feature id="com.sap.adt.datapreview" version="1.183.0" url="features/com.sap.adt.datapreview_1.183.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.identity.feature" version="4.4.0.v20240617-1534" url="features/org.eclipse.mylyn.commons.identity.feature_4.4.0.v20240617-1534/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.emf.workspace" version="1.14.0.202408231629" url="features/org.eclipse.emf.workspace_1.14.0.202408231629/">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.32.0.v20240731-0952" url="features/org.eclipse.emf.common_2.32.0.v20240731-0952/">
+		</feature>
+		<feature id="org.eclipse.userstorage" version="1.2.0.v20210517-0327" url="features/org.eclipse.userstorage_1.2.0.v20210517-0327/">
+		</feature>
+		<feature id="ADT_Classic_Outline_Feature" version="1.0.5.202308292325" url="features/ADT_Classic_Outline_Feature_1.0.5.202308292325/" plugin-identifier="com.abapblog.branding">
+		</feature>
+		<feature id="com.sap.adt.tm.feature" version="1.200.0" url="features/com.sap.adt.tm.feature_1.200.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.mylyn.team.feature" version="4.4.0.v20240617-1534" url="features/org.eclipse.mylyn.team.feature_4.4.0.v20240617-1534/" plugin-identifier="org.eclipse.mylyn.context.core">
+		</feature>
+		<feature id="com.genuitec.eclipse.codetogether.client.feature" version="2024.3.1.202407230323" url="features/com.genuitec.eclipse.codetogether.client.feature_2024.3.1.202407230323/">
+		</feature>
+		<feature id="org.eclipse.jdt" version="3.19.600.v20240903-0240" url="features/org.eclipse.jdt_3.19.600.v20240903-0240/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclient5.feature" version="1.1.702.v20240808-1900" url="features/org.eclipse.ecf.filetransfer.httpclient5.feature_1.1.702.v20240808-1900/">
+		</feature>
+		<feature id="com.sap.adt.connectivity" version="2.48.0" url="features/com.sap.adt.connectivity_2.48.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="de.leuc.adt.quickfix" version="1.4.2.202406281703" url="features/de.leuc.adt.quickfix_1.4.2.202406281703/">
+		</feature>
+		<feature id="com.sap.ide.support.feature" version="1.24.0" url="features/com.sap.ide.support.feature_1.24.0/">
+		</feature>
+		<feature id="com.sap.adt.tools.bopf" version="1.180.0" url="features/com.sap.adt.tools.bopf_1.180.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="com.sap.adt.pitools.tlf.devedition" version="1.196.0" url="features/com.sap.adt.pitools.tlf.devedition_1.196.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="com.sap.rnd.feature" version="1.112.0" url="features/com.sap.rnd.feature_1.112.0/">
+		</feature>
+		<feature id="org.eclipse.wst.common_core.feature" version="3.35.0.v202407180051" url="features/org.eclipse.wst.common_core.feature_3.35.0.v202407180051/">
+		</feature>
+		<feature id="com.sap.adt.pitools.npm" version="1.196.0" url="features/com.sap.adt.pitools.npm_1.196.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.user.ui" version="2.4.2500.v20240812-2151" url="features/org.eclipse.equinox.p2.user.ui_2.4.2500.v20240812-2151/">
+		</feature>
+		<feature id="org.eclipse.m2e.logback.feature" version="2.6.1.20240411-1743" url="features/org.eclipse.m2e.logback.feature_2.6.1.20240411-1743/" plugin-identifier="org.eclipse.m2e.core">
+		</feature>
+		<feature id="com.sap.adt.pitools.tlf" version="1.196.0" url="features/com.sap.adt.pitools.tlf_1.196.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.view.feature" version="11.6.1.202406241230" url="features/org.eclipse.tm.terminal.view.feature_11.6.1.202406241230/" plugin-identifier="org.eclipse.tm.terminal.view.ui">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.repositories.feature" version="4.4.0.v20240719-0621" url="features/org.eclipse.mylyn.commons.repositories.feature_4.4.0.v20240719-0621/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="com.sap.adt.wda.core" version="1.196.0" url="features/com.sap.adt.wda.core_1.196.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.feature" version="4.4.0.v20240828-0218" url="features/org.eclipse.mylyn.commons.feature_4.4.0.v20240828-0218/" plugin-identifier="org.eclipse.mylyn.commons.core">
+		</feature>
+		<feature id="org.eclipse.mylyn.egit.feature" version="4.4.0.v20240711-1016" url="features/org.eclipse.mylyn.egit.feature_4.4.0.v20240711-1016/" plugin-identifier="org.eclipse.mylyn.tasks.core">
+		</feature>
+		<feature id="com.sap.adt.datatools" version="1.196.0" url="features/com.sap.adt.datatools_1.196.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.platform" version="4.33.0.v20240903-0618" url="features/org.eclipse.platform_4.33.0.v20240903-0618/">
+		</feature>
+		<feature id="org.eclipse.graphiti.feature" version="0.19.2.202311281543" url="features/org.eclipse.graphiti.feature_0.19.2.202311281543/" plugin-identifier="org.eclipse.graphiti.ui">
+		</feature>
+		<feature id="org.eclipse.egit" version="7.0.0.202409031743-r" url="features/org.eclipse.egit_7.0.0.202409031743-r/">
+		</feature>
+		<feature id="org.eclipse.mylyn.commons.activity.feature" version="4.4.0.v20240617-1534" url="features/org.eclipse.mylyn.commons.activity.feature_4.4.0.v20240617-1534/" plugin-identifier="org.eclipse.mylyn.tasks.activity.ui">
+		</feature>
+		<feature id="org.eclipse.oomph.p2" version="1.31.0.v20240723-0951" url="features/org.eclipse.oomph.p2_1.31.0.v20240723-0951/">
+		</feature>
+		<feature id="org.eclipse.jgit.gpg.bc" version="7.0.0.202409031743-r" url="features/org.eclipse.jgit.gpg.bc_7.0.0.202409031743-r/">
+		</feature>
+		<feature id="org.eclipse.wst.common_ui.feature" version="3.34.0.v202405020134" url="features/org.eclipse.wst.common_ui.feature_3.34.0.v202405020134/">
+		</feature>
+		<feature id="org.eclipse.mylyn.versions.feature" version="4.4.0.v20240617-1534" url="features/org.eclipse.mylyn.versions.feature_4.4.0.v20240617-1534/" plugin-identifier="org.eclipse.mylyn.versions.core">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.connector.ssh.feature" version="11.6.1.202406241230" url="features/org.eclipse.tm.terminal.connector.ssh.feature_11.6.1.202406241230/" plugin-identifier="org.eclipse.tm.terminal.connector.ssh">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.ssl.feature" version="1.1.402.v20240812-1535" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.402.v20240812-1535/">
+		</feature>
+		<feature id="com.sap.conn.jco.eclipse.feature" version="1.27.0" url="features/com.sap.conn.jco.eclipse.feature_1.27.0/">
+		</feature>
+		<feature id="com.sap.adt.conn" version="1.135.0" url="features/com.sap.adt.conn_1.135.0/">
+		</feature>
+		<feature id="org.eclipse.mylyn.tasks.feature" version="4.4.0.v20240828-0218" url="features/org.eclipse.mylyn.tasks.feature_4.4.0.v20240828-0218/" plugin-identifier="org.eclipse.mylyn.tasks.core">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.extras.feature" version="1.4.2500.v20240812-2151" url="features/org.eclipse.equinox.p2.extras.feature_1.4.2500.v20240812-2151/">
+		</feature>
+		<feature id="org.eclipse.mylyn.reviews.feature" version="4.4.0.v20240828-0218" url="features/org.eclipse.mylyn.reviews.feature_4.4.0.v20240828-0218/" plugin-identifier="org.eclipse.mylyn.reviews.core">
+		</feature>
+		<feature id="org.eclipse.buildship" version="3.1.9.v20240115-1636" url="features/org.eclipse.buildship_3.1.9.v20240115-1636/" plugin-identifier="org.eclipse.buildship.branding">
+		</feature>
+		<feature id="org.eclipse.wst.xml_ui.feature" version="3.34.0.v202404170147" url="features/org.eclipse.wst.xml_ui.feature_3.34.0.v202404170147/" plugin-identifier="org.eclipse.wst.xml.ui">
+		</feature>
+		<feature id="org.eclipse.m2e.feature" version="2.6.2.20240828-1954" url="features/org.eclipse.m2e.feature_2.6.2.20240828-1954/" plugin-identifier="org.eclipse.m2e.core">
+		</feature>
+		<feature id="com.sap.adt.common" version="1.196.0" url="features/com.sap.adt.common_1.196.0/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="org.eclipse.rcp" version="4.33.0.v20240903-0618" url="features/org.eclipse.rcp_4.33.0.v20240903-0618/">
+		</feature>
+		<feature id="org.eclipse.mylyn.wikitext.feature" version="4.4.0.v20240820-2036" url="features/org.eclipse.mylyn.wikitext.feature_4.4.0.v20240820-2036/" plugin-identifier="org.eclipse.mylyn.wikitext">
+		</feature>
+		<feature id="org.eclipse.wst.ws_core.feature" version="3.35.0.v202408150414" url="features/org.eclipse.wst.ws_core.feature_3.35.0.v202408150414/">
+		</feature>
+		<feature id="org.eclipse.wst.xml_core.feature" version="3.34.0.v202405130132" url="features/org.eclipse.wst.xml_core.feature_3.34.0.v202405130132/">
+		</feature>
+		<feature id="org.eclipse.wst.xml_userdoc.feature" version="3.18.0.v202004271556" url="features/org.eclipse.wst.xml_userdoc.feature_3.18.0.v202004271556/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclientjava.feature" version="2.0.200.v20240808-1900" url="features/org.eclipse.ecf.filetransfer.httpclientjava.feature_2.0.200.v20240808-1900/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.38.0.v20240721-0802" url="features/org.eclipse.emf.ecore_2.38.0.v20240721-0802/">
+		</feature>
+		<feature id="org.eclipse.epp.package.common.feature" version="4.33.0.20240905-0613" url="features/org.eclipse.epp.package.common.feature_4.33.0.20240905-0613/">
+		</feature>
+	</site>
+	<site updateable="true" url="platform:/base/" enabled="true" policy="USER-EXCLUDE">
+		<feature id="com.sap.adt.core.devedition" version="3.46.1" url="features/com.sap.adt.core.devedition_3.46.1/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="com.sap.adt.tools" version="3.46.1" url="features/com.sap.adt.tools_3.46.1/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="com.sap.adt.tools.base.devedition" version="3.46.1" url="features/com.sap.adt.tools.base.devedition_3.46.1/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="com.sap.adt.abapcleaner.feature" version="1.20.1" url="features/com.sap.adt.abapcleaner.feature_1.20.1/">
+		</feature>
+		<feature id="com.sap.adt.tools.cds" version="3.46.1" url="features/com.sap.adt.tools.cds_3.46.1/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="com.sap.adt.tools.base" version="3.46.1" url="features/com.sap.adt.tools.base_3.46.1/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+		<feature id="com.sap.adt.core" version="3.46.1" url="features/com.sap.adt.core_3.46.1/" plugin-identifier="com.sap.adt.branding">
+		</feature>
+	</site>
+</config>

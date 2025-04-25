@@ -1,0 +1,23 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: bX6iJPjXifqEyPegI5sb+bhmvaFKr
+ bdLnzZrwr07R3o=
+SHA-256-Digest-Manifest: +5MlE3hTfgPQFea0NVUssof1sHhywe9MMXYwfATrx84=
+Created-By: 1.8.0_432 (Azul Systems, Inc.)
+
+Name: META-INF/maven/devstyle/com.genuitec.eclipse.theming.elevation.w
+ in32/pom.xml
+SHA-256-Digest: lqEaSD30CownuzgofpFUKF5tW2ZO7JcKjjB6qCX8mF4=
+
+Name: resources/launcher.exe
+SHA-256-Digest: 6QVd1JQgaaK9at6r7fVHKm+uk/AlwxBp/AHR7GmKDDo=
+
+Name: resources/elevator.exe
+SHA-256-Digest: cUmFDYd8JVbNY4ivZhdZ9nctY6HH6dDQRxVM1AKfQa0=
+
+Name: META-INF/maven/devstyle/com.genuitec.eclipse.theming.elevation.w
+ in32/pom.properties
+SHA-256-Digest: 65hh+/7J0RsRZHe1/boTm6P5TQbYQMh/BIHvbY2GM3k=
+
+Name: LICENSE
+SHA-256-Digest: C4NRUR6OGfisbzWke3Sr1R3Al/Z90NtcCr0+6kTW+Qc=
+

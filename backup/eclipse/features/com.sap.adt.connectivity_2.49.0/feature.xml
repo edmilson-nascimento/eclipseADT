@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.sap.adt.connectivity"
+      label="%featureName"
+      version="2.49.0"
+      provider-name="%providerName"
+      plugin="com.sap.adt.branding">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="">
+      %license
+   </license>
+
+   <requires>
+      <import feature="com.sap.conn.jco.eclipse.feature" version="1.28.0" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="org.eclipse.core.resources.semantic"
+         download-size="232"
+         install-size="513"
+         version="0.8.0.sap"
+         unpack="false"/>
+
+   <plugin
+         id="org.eclipse.ui.resources.semantic"
+         download-size="196"
+         install-size="411"
+         version="0.8.0.sap"
+         unpack="false"/>
+
+</feature>

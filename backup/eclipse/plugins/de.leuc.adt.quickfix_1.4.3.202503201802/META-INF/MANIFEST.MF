@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ABAP Quick Fix S4C Plugin
+Bundle-SymbolicName: de.leuc.adt.quickfix;singleton:=true
+Bundle-Version: 1.4.3.202503201802
+Bundle-Activator: de.leuc.adt.quickfix.Activator
+Bundle-Vendor: leuc.de
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.jfac
+ e,org.eclipse.jface.text,org.eclipse.ui.editors,com.sap.adt.tools.abaps
+ ource.ui,com.sap.adt.util.ui,org.eclipse.ui.ide,org.eclipse.ui.workbenc
+ h.texteditor,org.eclipse.jdt.ui,com.abapblog.adt.quickfix;bundle-versio
+ n="1.1.4"
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Automatic-Module-Name: de.leuc.adt.quickfix
+Bundle-ActivationPolicy: lazy
+Import-Package: com.sap.adt.atc.model.autoquickfix,com.sap.adt.project.u
+ i.util,com.sap.adt.refactoring.model.quickfixes,com.sap.adt.refactoring
+ .quickfix,com.sap.adt.tools.core.ui.contentassist,org.eclipse.core.reso
+ urces
+
+

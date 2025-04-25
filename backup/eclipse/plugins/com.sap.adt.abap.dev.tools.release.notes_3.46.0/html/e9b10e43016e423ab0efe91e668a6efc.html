@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-us">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="abstract" content="ABAP development tools for Eclipse is SAP’s state-of-the-art IDE for ABAP development on the open Eclipse platform."/>
+<meta name="description" content="ABAP development tools for Eclipse is SAP’s state-of-the-art IDE for ABAP development on the open Eclipse platform."/>
+<meta name="content category" content="whats_new"/>
+<meta name="SecurityLevel" content="CUSTOMER"/>
+
+<link rel="stylesheet" type="text/css" href="../css/prettify.css"/>
+<link rel="stylesheet" type="text/css" href="../css/documentation.css"/>
+<title>Release Notes of ABAP Development Tools for Eclipse</title>
+<!--[if lte IE 7]><style>
+      .codeblock{
+      overflow:visible;
+      }</style><![endif]-->
+<script type="text/javascript" src="js/jquery.min.js"> </script><script type="text/javascript" src="js/prettify.js"> </script><script type="text/javascript"> 
+        window.onload = prettyPrint;
+    </script>
+
+<script type="text/javascript" src="js/dark-theme.js"> </script><link rel="stylesheet" type="text/css" href="../css/dark-theme.css"/></head>
+<body id="loioe9b10e43016e423ab0efe91e668a6efc">
+<div id="wrapper"><div id="container">
+
+	<h1 class="title topictitle1" id="ariaid-title1">Release Notes of <span class="ph pname">ABAP Development Tools for Eclipse</span></h1>
+
+	
+	<div class="body"><p class="shortdesc"><span class="ph pname">ABAP development tools for Eclipse</span> is SAP’s
+		state-of-the-art IDE for ABAP development on the open Eclipse platform.</p>
+
+		<div class="section"><h2 class="section_title">Overview</h2><div type="Overview">
+			
+			<p class="p">These release notes are a general overview of the most significant
+                    changes relating to <span class="ph pname">ABAP development tools for Eclipse</span> (ADT) features
+                    in the context of ABAP development and the ABAP programming models.</p>
+
+		</div></div>
+		<div class="section"><h2 class="section_title">Highlighting of SAP Product-Specific Dependencies</h2><div type="Highlighting of SAP Product-Specific Dependencies">
+			
+			<div class="p"><span class="ph pname">ABAP development tools for Eclipse</span> provides features
+                that are client-specific or require a specific back-end version. To highlight and
+                contrast back-end-specific help content in the relevant context, the following SAP
+                icon fonts are used: 
+<div class="table-wrapper tablenoborder"><table summary="" class="table" frame="border" border="1" rules="all">
+<colgroup><col width="14.285714285714286%"/><col width="28.571428571428573%"/><col width="57.142857142857146%"/></colgroup>
+<thead class="thead" style="text-align:left;">
+                            <tr class="row">
+                                <th class="entry" style="vertical-align:top;" id="d1007e61">Icon</th>
+
+                                <th class="entry" style="vertical-align:top;" id="d1007e64">Deployment Model</th>
+
+                                <th class="entry" style="vertical-align:top;" id="d1007e67">Description</th>
+
+                            </tr>
+
+                        </thead>
+<tbody class="tbody">
+                            <tr class="row">
+                                <td class="entry" style="vertical-align:top;" headers="d1007e61 "><span class="SAPiconsV3-6" role="image" alt="Home" title="Home" aria-label="Home"></span></td>
+
+                                <td class="entry" style="vertical-align:top;" headers="d1007e64 ">On-premise/Private Cloud</td>
+
+                                <td class="entry" style="vertical-align:top;" headers="d1007e67 ">Used for <span class="ph pname">SAP NetWeaver</span>,
+                                        <span class="ph pname">SAP S/4HANA</span> and for <span class="ph pname">SAP S/4HANA Cloud, private
+									edition</span></td>
+
+                            </tr>
+
+                            <tr class="row">
+                                <td class="entry" style="vertical-align:top;" headers="d1007e61 "><span class="SAPiconsV3-6" role="image" alt="Cloud" title="Cloud" aria-label="Cloud"></span></td>
+
+                                <td class="entry" style="vertical-align:top;" headers="d1007e64 ">Public Cloud</td>
+
+                                <td class="entry" style="vertical-align:top;" headers="d1007e67 ">Used for <span class="ph pname"> SAP BTP  ABAP environment</span> and <span class="ph pname">SAP S/4HANA Cloud</span></td>
+
+                            </tr>
+
+                        </tbody>
+</table>
+</div>
+</div>
+
+		</div></div>
+		<div class="section"><h2 class="section_title"><span class="SAPiconsV3-6" role="image" alt="Home" title="Home" aria-label="Home"></span> ADT Feature Availability Matrix for <span class="ph pname">AS ABAP</span> Releases</h2><div type="Home ADT Feature Availability Matrix for AS ABAP Releases">
+			
+			<p class="p">Most of the ADT features depend on a specific back-end version. To get an overview, which ADT
+				features are enabled with which back-end version, see this <a class="extlink" href="http://help.sap.com/disclaimer?site=https%3A%2F%2Fcommunity.sap.com%2Ft5%2Ftechnology-blogs-by-sap%2Fadt-feature-availability-matrix-for-as-abap-releases%2Fba-p%2F13027468" target="_blank" rel="noopener" alt="https://community.sap.com/t5/technology-blogs-by-sap/adt-feature-availability-matrix-for-as-abap-releases/ba-p/13027468" title="https://community.sap.com/t5/technology-blogs-by-sap/adt-feature-availability-matrix-for-as-abap-releases/ba-p/13027468">blog post<img src="../images/sap_link.png" class="link-sap" alt="Information published on SAP site" title="Information published on SAP site" border="0"/></a>.</p>
+
+			<p class="p">To see the release notes of the latest ABAP releases for the ABAP Platform that is
+				used for the <span class="ph pname">SAP S/4HANA</span> on
+				premise releases in general, see <a class="xref" href="https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abennews-75.htm" target="_blank" rel="noopener" alt="https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abennews-75.htm" title="https://help.sap.com/doc/abapdocu_latest_index_htm/latest/en-US/index.htm?file=abennews-75.htm">News for ABAP Release 7.5x</a></p>
+
+		</div></div>
+		<div class="section"><h2 class="section_title">ADT Client Shipment Strategy</h2><div type="ADT Client Shipment Strategy">
+			
+			<p class="p"><a class="xref" href="https://help.sap.com/docs/ABAP_DEVELOPMENT_TOOLS_FOR_ECLIPSE" target="_blank" rel="noopener" alt="https://help.sap.com/docs/ABAP_DEVELOPMENT_TOOLS_FOR_ECLIPSE" title="https://help.sap.com/docs/ABAP_DEVELOPMENT_TOOLS_FOR_ECLIPSE"><span class="ph pname">ABAP development tools for Eclipse</span></a> is
+				released to customers in combination with the latest back-end shipments in the
+				context of on-premise/Private Cloud and Public Cloud. Consequently, the
+				documentation of these ADT features will be shipped with the following SAP
+				products:</p>
+
+			<ul class="ul">
+				<li class="li">
+					<p class="p">
+						<span class="SAPiconsV3-6" role="image" alt="Cloud" title="Cloud" aria-label="Cloud"></span> Documentation in the context of <span class="ph pname"> SAP BTP  ABAP environment</span>
+						will be shipped in accordance with the relevant <span class="ph pname">SAP BTP</span>
+						shipments.</p>
+
+				</li>
+
+				<li class="li">
+					<p class="p">
+						<span class="SAPiconsV3-6" role="image" alt="Cloud" title="Cloud" aria-label="Cloud"></span> Documentation in the context of <span class="ph pname">SAP S/4HANA Cloud Public
+                                    Edition</span> will be
+						shipped in accordance with the relevant <span class="ph pname">SAP S/4HANA Cloud Public
+                                    Edition</span>
+						shipments.</p>
+
+				</li>
+
+				<li class="li">
+					<p class="p"><span class="SAPiconsV3-6" role="image" alt="Home" title="Home" aria-label="Home"></span> Documentation in the context of ABAP Platform and <span class="ph pname">SAP S/4HANA Cloud, private
+									edition</span> will be shipped in accordance with the following <span class="ph pname">SAP S/4HANA</span>
+						shipments</p>
+
+				</li>
+
+			</ul>
+
+			<p class="p">For more information about the client shipments from <span class="ph pname">ABAP development tools for Eclipse</span>, see <a class="extlink" href="http://help.sap.com/disclaimer?site=https%3A%2F%2Fblogs.sap.com%2F2019%2F04%2F15%2Fimportant-changes-to-the-abap-development-tools-adt-release-cycle%2F" target="_blank" rel="noopener" alt="https://blogs.sap.com/2019/04/15/important-changes-to-the-abap-development-tools-adt-release-cycle/" title="https://blogs.sap.com/2019/04/15/important-changes-to-the-abap-development-tools-adt-release-cycle/">Important changes to the ABAP Development Tools (ADT) release
+					cycle<img src="../images/sap_link.png" class="link-sap" alt="Information published on SAP site" title="Information published on SAP site" border="0"/></a></p>
+
+		</div></div>
+		<div class="section"><h2 class="section_title">Further SAP Product-Specific Release Notes</h2><div type="Further SAP Product-Specific Release Notes">
+			
+			<p class="p"><span class="SAPiconsV3-6" role="image" alt="Home" title="Home" aria-label="Home"></span> For more information about the release notes of the client
+				shipments from <span class="ph pname">ABAP development tools for Eclipse</span> in
+				the context of <span class="ph pname">SAP S/4HANA</span>,
+				see <a class="xref" href="https://help.sap.com/whats-new/6a9ccc848f4047178da63fe4eaa86d50?locale=en-US" target="_blank" rel="noopener" alt="https://help.sap.com/whats-new/6a9ccc848f4047178da63fe4eaa86d50?locale=en-US" title="https://help.sap.com/whats-new/6a9ccc848f4047178da63fe4eaa86d50?locale=en-US">What's New Viewer - ABAP Platform</a></p>
+
+			<p class="p"><span class="SAPiconsV3-6" role="image" alt="Cloud" title="Cloud" aria-label="Cloud"></span> For more information about the release notes of the client
+				shipments from <span class="ph pname">ABAP development tools for Eclipse</span> in
+				the context of <span class="ph pname">SAP Business Technology Platform</span>,
+				see <a class="xref" href="https://help.sap.com/whats-new/cf0cb2cb149647329b5d02aa96303f56?locale=en-US" target="_blank" rel="noopener" alt="https://help.sap.com/whats-new/cf0cb2cb149647329b5d02aa96303f56?locale=en-US" title="https://help.sap.com/whats-new/cf0cb2cb149647329b5d02aa96303f56?locale=en-US">What's New for <span class="ph pname">SAP Business Technology Platform</span></a></p>
+
+			<p class="p"><span class="SAPiconsV3-6" role="image" alt="Cloud" title="Cloud" aria-label="Cloud"></span> For more information about the release notes of the client shipments
+				from <span class="ph pname">ABAP development tools for Eclipse</span> in the
+				context <span class="ph pname">SAP S/4HANA Cloud</span>,
+				see <a class="xref" href="https://help.sap.com/whats-new/7d3d11840a6543329e72391cf4d48e2d?locale=en-US" target="_blank" rel="noopener" alt="https://help.sap.com/whats-new/7d3d11840a6543329e72391cf4d48e2d?locale=en-US" title="https://help.sap.com/whats-new/7d3d11840a6543329e72391cf4d48e2d?locale=en-US">What's New for <span class="ph pname">SAP S/4HANA Cloud</span></a></p>
+
+		</div></div>
+		<div class="section"><h2 class="section_title">List of Available ADT Release Notes</h2><div type="List of Available ADT Release Notes">
+			
+			<p class="p">The following list gives you an overview of the available ADT release notes:</p>
+
+		</div></div>
+	</div>
+
+<div class="related-links"> <br/>
+<ul class="ullinks">
+<div><strong><a class="link" href="a0fc5c99cd3e4c83a4a11997d3069c41.html#loioa0fc5c99cd3e4c83a4a11997d3069c41">Release Notes of ABAP Development Tools for Eclipse 3.46</a></strong><br/>
+</div>
+</ul>
+
+</div>
+</div></div><div class="footer" id="custom-footer">
+	<div id="custom-footerSpacer"><hr width="350px" align="left"/></div>
+	<a class="copyright" href="copyright.html">Copyright</a><span class="separator"> | </span><a class="disclaimer" href="disclaimer.html">Important Disclaimers and Legal Information</a>
+</div>
+
+</body>
+</html>

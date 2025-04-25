@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ABAP Quick Fix Plugin
+Bundle-SymbolicName: com.abapblog.adt.quickfix;singleton:=true
+Bundle-Version: 1.1.7.202504030908
+Bundle-Activator: com.abapblog.adt.quickfix.Activator
+Bundle-Vendor: ABAPBlog.com
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime,org.eclipse.jfac
+ e.text,org.eclipse.ui.editors,com.sap.adt.tools.abapsource.ui,org.eclip
+ se.ui.ide,org.eclipse.json,com.sap.adt.util.ui
+Bundle-RequiredExecutionEnvironment: JavaSE-9
+Automatic-Module-Name: com.abapblog.adt.quickfix
+Bundle-ActivationPolicy: lazy
+Import-Package: com.sap.adt.tools.core.ui.editors,org.eclipse.core.resou
+ rces
+Export-Package: com.abapblog.adt.quickfix,com.abapblog.adt.quickfix.assi
+ st.syntax.codeParser,com.abapblog.adt.quickfix.assist.syntax.statements
+ ,com.abapblog.adt.quickfix.assist.syntax.statements.move
+
+

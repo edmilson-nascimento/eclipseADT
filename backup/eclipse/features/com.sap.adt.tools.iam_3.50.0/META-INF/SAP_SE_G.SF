@@ -1,0 +1,27 @@
+Signature-Version: 1.0
+Created-By: 17.0.9 (SAP SE)
+SHA-256-Digest-Manifest: tOdT+Kh2Qn7gO3KGRy8YWX7QgnCo1Mw/vy1bavIhBog=
+SHA-256-Digest-Manifest-Main-Attributes: BDmXjaQUsG4+3CwjyYdojoW0rjP8GLZ
+ wclSPJwkTwy8=
+
+Name: feature_zh_CN.properties
+SHA-256-Digest: fqGf4Y1vlhQGH2oVRdTwUZaQ8a1G0LixrloE1Gw06qU=
+
+Name: feature_ja.properties
+SHA-256-Digest: UfhyIrdu5quPaSgkqffbciPVNV/vKvoayRDicBQZ8s8=
+
+Name: feature_de.properties
+SHA-256-Digest: i/sIY1NjC61rMVlaZbWWqX7/7BDg6wCHwDwmWyRP5Hk=
+
+Name: feature_en.properties
+SHA-256-Digest: CoN0U+sQeOO6ss642KeN5SG8Q0jCsnlEmxBkQACSgFg=
+
+Name: feature.xml
+SHA-256-Digest: PLgBjC5ktiPoebKTy7Z57RXsNFgkbxdcTofEPdXwegA=
+
+Name: feature_fr.properties
+SHA-256-Digest: TEMf6vVayIrE7Ft10NdvZzcsRaKHT5H5lmKlEFGBS6Y=
+
+Name: feature.properties
+SHA-256-Digest: mx5nb7KuKjMs7/7W04YZ1TAweicegMXQHE001vjMO7U=
+

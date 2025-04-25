@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.sap.adt.tools.debug"
+      label="%featureName"
+      version="3.50.0"
+      provider-name="%providerName"
+      plugin="com.sap.adt.branding">
+
+   <description>
+      %description
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="">
+      %license
+   </license>
+
+   <requires>
+      <import feature="com.sap.adt.tools" version="2.0.0.qualifier" match="greaterOrEqual"/>
+      <import feature="com.sap.adt.tools.base" version="2.0.0.qualifier" match="greaterOrEqual"/>
+   </requires>
+
+   <plugin
+         id="com.sap.adt.amdp.debugger"
+         download-size="230"
+         install-size="488"
+         version="3.50.0"
+         unpack="false"/>
+   <plugin
+         id="com.sap.adt.amdp.debugger.ui"
+         download-size="278"
+         install-size="597"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.debugger"
+         download-size="624"
+         install-size="1416"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.debugger.ui"
+         download-size="1276"
+         install-size="2749"
+         version="3.50.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.adt.memoryanalysis.ui"
+         download-size="168"
+         install-size="354"
+         version="3.50.0"
+         unpack="false"/>
+		 
+   <plugin
+         id="com.sap.adt.memoryanalysis"
+         download-size="152"
+         install-size="424"
+         version="3.50.0"
+         unpack="false"/>
+
+</feature>

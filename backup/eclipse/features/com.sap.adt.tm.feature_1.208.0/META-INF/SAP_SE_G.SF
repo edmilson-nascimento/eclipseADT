@@ -1,0 +1,30 @@
+Signature-Version: 1.0
+Created-By: 17.0.9 (SAP SE)
+SHA-256-Digest-Manifest: 6QP03OGgwFaofcLq48idgMVRSllBtS9vL56VI/Ty1Uw=
+SHA-256-Digest-Manifest-Main-Attributes: BDmXjaQUsG4+3CwjyYdojoW0rjP8GLZ
+ wclSPJwkTwy8=
+
+Name: feature_zh_CN.properties
+SHA-256-Digest: fqGf4Y1vlhQGH2oVRdTwUZaQ8a1G0LixrloE1Gw06qU=
+
+Name: feature_ja.properties
+SHA-256-Digest: UfhyIrdu5quPaSgkqffbciPVNV/vKvoayRDicBQZ8s8=
+
+Name: feature_de.properties
+SHA-256-Digest: i/sIY1NjC61rMVlaZbWWqX7/7BDg6wCHwDwmWyRP5Hk=
+
+Name: feature_en.properties
+SHA-256-Digest: CoN0U+sQeOO6ss642KeN5SG8Q0jCsnlEmxBkQACSgFg=
+
+Name: feature_xx.properties
+SHA-256-Digest: 5RehtJuyryC0+DxCIRRYLJiW9ZUadkl2CAFsQsmCGds=
+
+Name: feature.xml
+SHA-256-Digest: MQryh+vpBBDBISJR+4L6TF1ualK7qAr30WgbebFKNGc=
+
+Name: feature_fr.properties
+SHA-256-Digest: TEMf6vVayIrE7Ft10NdvZzcsRaKHT5H5lmKlEFGBS6Y=
+
+Name: feature.properties
+SHA-256-Digest: /GvQ7SXpslmd/+nXTPxTrdET+Exw/uywVvdVZk7vTdw=
+

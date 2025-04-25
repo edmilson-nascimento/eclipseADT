@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Extensions for ABAP Development Tools
+Bundle-SymbolicName: com.abapblog.branding
+Bundle-Version: 0.0.1.202405241612
+Bundle-Vendor: ABAPBlog.com
+Require-Bundle: org.eclipse.ui,org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: AB_Branding_Plugin
+
+

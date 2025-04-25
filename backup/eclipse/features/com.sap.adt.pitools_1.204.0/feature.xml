@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.sap.adt.pitools"
+      label="%pitools_featureName_xgrp"
+      version="1.204.0"
+      plugin="com.sap.adt.branding">
+
+   <description>
+      %pitools_description_xtxt
+   </description>
+
+   <copyright>
+      %copyright
+   </copyright>
+
+   <license url="">
+      %license
+   </license>
+
+   <requires>
+      <import feature="com.sap.adt.common" version="1.191.0" match="compatible"/>
+      <import feature="com.sap.adt.datatools" version="1.191.0" match="compatible"/>
+      <import feature="org.eclipse.wst.ws_ui.feature" version="3.3.0" match="compatible"/>
+   </requires>
+
+   <plugin
+         id="com.sap.mts.common.model"
+         download-size="83"
+         install-size="210"
+         version="1.204.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.mts.masterdetails.framework"
+         download-size="31"
+         install-size="61"
+         version="1.204.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.mts.processintegration.guide.doc.user"
+         download-size="1152"
+         install-size="2786"
+         version="1.175.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.mts.esr.model"
+         download-size="64"
+         install-size="156"
+         version="1.204.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.mts.esr.ui"
+         download-size="129"
+         install-size="246"
+         version="1.204.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.mts.serviceconsumer.model"
+         download-size="72"
+         install-size="184"
+         version="1.204.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.mts.serviceconsumer.ui"
+         download-size="189"
+         install-size="414"
+         version="1.204.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.mts.serviceprovider.model"
+         download-size="68"
+         install-size="171"
+         version="1.204.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.mts.serviceprovider.ui"
+         download-size="176"
+         install-size="388"
+         version="1.204.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.mts.serviceregistry.model"
+         download-size="57"
+         install-size="143"
+         version="1.204.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.mts.serviceregistry.ui"
+         download-size="119"
+         install-size="237"
+         version="1.204.0"
+         unpack="false"/>
+
+   <plugin
+         id="com.sap.mts.soamanager.ui"
+         download-size="23"
+         install-size="39"
+         version="1.204.0"
+         unpack="false"/>
+
+    <plugin
+         id="com.sap.mts.aci.ui"
+         download-size="14"
+         install-size="19"
+         version="1.204.0"
+         unpack="false"/>
+
+ 	<plugin
+         id="com.sap.mts.payloadvalidation.ui"
+         download-size="45"
+         install-size="85"
+         version="1.204.0"
+         unpack="false"/>
+
+    <plugin
+         id="com.sap.mts.webservices.cheatsheet"
+         download-size="47"
+         install-size="105"
+         version="1.204.0"
+         unpack="false"/>
+
+</feature>
