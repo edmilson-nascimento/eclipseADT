@@ -43,13 +43,20 @@ Para mais informações, visite o [repositório oficial](https://github.com/SAP/
 
 Lista dos plugins essenciais para desenvolvimento ABAP no Eclipse:
 
+7. **Eclipse Marketplace Client**
+   - Link: https://marketplace.eclipse.org/content/eclipse-marketplace-client
+   - Descrição: Cliente para instalação de plugins
+   https://marketplace.eclipse.org/content/eclipse-marketplace-client#external-install-button
+
 1. **ABAP ADT Extensions**
    - Link: https://marketplace.eclipse.org/content/abap-adt-extensions
    - Descrição: Extensões adicionais para ABAP Development Tools
+   https://marketplace.eclipse.org/content/abap-favorites#external-install-button
 
 2. **ABAP Favorites**
    - Link: https://marketplace.eclipse.org/content/abap-favorites
    - Descrição: Gerenciamento de favoritos para objetos ABAP
+   https://marketplace.eclipse.org/content/abap-favorites#external-install-button
 
 3. **ABAP Quickfix S/4 Conversion**
    - Link: https://marketplace.eclipse.org/content/abap-quickfix-s4-conversion
@@ -58,27 +65,29 @@ Lista dos plugins essenciais para desenvolvimento ABAP no Eclipse:
 4. **ADT Classic Outline**
    - Link: https://marketplace.eclipse.org/content/adt-classic-outline
    - Descrição: Visualização clássica da estrutura do código
+   https://marketplace.eclipse.org/content/abap-quickfix-s4-conversion#external-install-button
 
 5. **Darkest Dark Theme**
    - Link: https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle
    - Descrição: Tema escuro para melhor visualização do código
+https://marketplace.eclipse.org/content/abap-quickfix-s4-conversion#external-install-button
 
 6. **EclEmma Java Code Coverage**
    - Link: https://marketplace.eclipse.org/content/eclemma-java-code-coverage
    - Descrição: Análise de cobertura de código Java
-
-7. **Eclipse Marketplace Client**
-   - Link: https://marketplace.eclipse.org/content/eclipse-marketplace-client
-   - Descrição: Cliente para instalação de plugins
+   https://marketplace.eclipse.org/content/eclemma-java-code-coverage#external-install-button
 
 8. **Eclipse XML Editors and Tools**
    - Link: https://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools
    - Descrição: Ferramentas para edição de arquivos XML
+   https://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools#external-install-button
 
 9. **EGit**
    - Link: https://marketplace.eclipse.org/content/egit-git-integration-eclipse
    - Descrição: Integração com Git
+   https://marketplace.eclipse.org/content/egit-git-integration-eclipse#external-install-button
 
 10. **Relative Line Number Ruler**
     - Link: https://marketplace.eclipse.org/content/relative-line-number-ruler
     - Descrição: Exibição de números de linha relativos
+    https://marketplace.eclipse.org/content/relative-line-number-ruler#external-install-button
