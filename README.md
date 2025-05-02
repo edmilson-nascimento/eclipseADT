@@ -68,7 +68,7 @@ A seguir, encontra-se uma lista organizada dos plugins essenciais para desenvolv
    - *Descrição*: Oferece uma visualização clássica e simplificada da estrutura do código, facilitando a navegação.  
    - *Link*: [ADT Classic Outline](https://marketplace.eclipse.org/content/adt-classic-outline#external-install-button)
 
-6. **Darkest Dark Theme**  
+6. **Darkest Dark Theme**  🟢
    - *Descrição*: Tema escuro que proporciona uma melhor visualização e reduz a fadiga visual durante longas sessões de codificação.  
    - *Link*: [Darkest Dark Theme](https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle#external-install-button)
 
@@ -80,8 +80,11 @@ A seguir, encontra-se uma lista organizada dos plugins essenciais para desenvolv
    - *Descrição*: Conjunto de ferramentas avançadas para edição e manipulação de arquivos XML, integradas ao ambiente Eclipse.  
    - *Link*: [Eclipse XML Editors and Tools](https://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools#external-install-button)
 
-9. **EGit**  
+9. **EGit**  🟢
    - *Descrição*: Integração completa com o Git, permitindo controle de versão diretamente no Eclipse.  
+   https://wiki.eclipse.org/EGit/User_Guide/
+https://git-scm.com/book/pt-pt/v2/Appendix-A:-Git-em-Outros-Ambientes-Git-no-Eclipse
+   https://www.vogella.com/tutorials/EclipseGit/article.html
    - *Link*: [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse#external-install-button)
 
 10. **Relative Line Number Ruler**  
