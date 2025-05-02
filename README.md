@@ -41,53 +41,44 @@ Para mais informações, visite o [repositório oficial](https://github.com/SAP/
 
 ### Plugins Instalados
 
-Lista dos plugins essenciais para desenvolvimento ABAP no Eclipse:
+A seguir, encontra-se uma lista organizada dos plugins essenciais para desenvolvimento ABAP no Eclipse, com descrições e links diretos para instalação:
 
-7. **Eclipse Marketplace Client**
-   - Link: https://marketplace.eclipse.org/content/eclipse-marketplace-client
-   - Descrição: Cliente para instalação de plugins
-   https://marketplace.eclipse.org/content/eclipse-marketplace-client#external-install-button
+1. **Eclipse Marketplace Client**  
+   - *Descrição*: Cliente para instalação de plugins no Eclipse.  
+   - *Link*: [Eclipse Marketplace Client](https://marketplace.eclipse.org/content/eclipse-marketplace-client#external-install-button)
 
-1. **ABAP ADT Extensions**
-   - Link: https://marketplace.eclipse.org/content/abap-adt-extensions
-   - Descrição: Extensões adicionais para ABAP Development Tools
-   https://marketplace.eclipse.org/content/abap-favorites#external-install-button
+2. **ABAP ADT Extensions**  
+   - *Descrição*: Extensões adicionais para o ABAP Development Tools, trazendo recursos aprimorados para desenvolvimento ABAP.  
+   - *Link*: [ABAP ADT Extensions](https://marketplace.eclipse.org/content/abap-adt-extensions#external-install-button)
 
-2. **ABAP Favorites**
-   - Link: https://marketplace.eclipse.org/content/abap-favorites
-   - Descrição: Gerenciamento de favoritos para objetos ABAP
-   https://marketplace.eclipse.org/content/abap-favorites#external-install-button
+3. **ABAP Favorites**  
+   - *Descrição*: Facilita o gerenciamento e acesso aos objetos ABAP favoritos, otimizando a produtividade.  
+   - *Link*: [ABAP Favorites](https://marketplace.eclipse.org/content/abap-favorites#external-install-button)
 
-3. **ABAP Quickfix S/4 Conversion**
-   - Link: https://marketplace.eclipse.org/content/abap-quickfix-s4-conversion
-   - Descrição: Correções rápidas para conversão de código para S/4HANA
+4. **ABAP Quickfix S/4 Conversion**  
+   - *Descrição*: Providencia correções rápidas para a migração de código para S/4HANA, agilizando processos de conversão.  
+   - *Link*: [ABAP Quickfix S/4 Conversion](https://marketplace.eclipse.org/content/abap-quick-fix/help)
 
-4. **ADT Classic Outline**
-   - Link: https://marketplace.eclipse.org/content/adt-classic-outline
-   - Descrição: Visualização clássica da estrutura do código
-   https://marketplace.eclipse.org/content/abap-quickfix-s4-conversion#external-install-button
+5. **ADT Classic Outline**  
+   - *Descrição*: Oferece uma visualização clássica e simplificada da estrutura do código, facilitando a navegação.  
+   - *Link*: [ADT Classic Outline](https://marketplace.eclipse.org/content/adt-classic-outline#external-install-button)
 
-5. **Darkest Dark Theme**
-   - Link: https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle
-   - Descrição: Tema escuro para melhor visualização do código
-https://marketplace.eclipse.org/content/abap-quickfix-s4-conversion#external-install-button
+6. **Darkest Dark Theme**  
+   - *Descrição*: Tema escuro que proporciona uma melhor visualização e reduz a fadiga visual durante longas sessões de codificação.  
+   - *Link*: [Darkest Dark Theme](https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle#external-install-button)
 
-6. **EclEmma Java Code Coverage**
-   - Link: https://marketplace.eclipse.org/content/eclemma-java-code-coverage
-   - Descrição: Análise de cobertura de código Java
-   https://marketplace.eclipse.org/content/eclemma-java-code-coverage#external-install-button
+7. **EclEmma Java Code Coverage**  
+   - *Descrição*: Ferramenta indispensável para análise da cobertura de código Java, auxiliando na identificação de áreas com menor testagem.  
+   - *Link*: [EclEmma Java Code Coverage](https://marketplace.eclipse.org/content/eclemma-java-code-coverage#external-install-button)
 
-8. **Eclipse XML Editors and Tools**
-   - Link: https://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools
-   - Descrição: Ferramentas para edição de arquivos XML
-   https://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools#external-install-button
+8. **Eclipse XML Editors and Tools**  
+   - *Descrição*: Conjunto de ferramentas avançadas para edição e manipulação de arquivos XML, integradas ao ambiente Eclipse.  
+   - *Link*: [Eclipse XML Editors and Tools](https://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools#external-install-button)
 
-9. **EGit**
-   - Link: https://marketplace.eclipse.org/content/egit-git-integration-eclipse
-   - Descrição: Integração com Git
-   https://marketplace.eclipse.org/content/egit-git-integration-eclipse#external-install-button
+9. **EGit**  
+   - *Descrição*: Integração completa com o Git, permitindo controle de versão diretamente no Eclipse.  
+   - *Link*: [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse#external-install-button)
 
-10. **Relative Line Number Ruler**
-    - Link: https://marketplace.eclipse.org/content/relative-line-number-ruler
-    - Descrição: Exibição de números de linha relativos
-    https://marketplace.eclipse.org/content/relative-line-number-ruler#external-install-button
+10. **Relative Line Number Ruler**  
+    - *Descrição*: Exibe números de linha em formato relativo, facilitando a navegação e localização de referências no código.  
+    - *Link*: [Relative Line Number Ruler](https://marketplace.eclipse.org/content/relative-line-number-ruler#external-install-button)
