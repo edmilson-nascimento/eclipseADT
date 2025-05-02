@@ -46,6 +46,8 @@ A seguir, encontra-se uma lista organizada dos plugins essenciais para desenvolv
 1. **Eclipse Marketplace Client**  
    - *Descrição*: Cliente para instalação de plugins no Eclipse.  
    - *Link*: [Eclipse Marketplace Client](https://marketplace.eclipse.org/content/eclipse-marketplace-client#external-install-button)
+   [![Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_marketplace/images/btn-install.svg)](/marketplace-client-intro?mpc_install=4123770"Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client")
+
 
 2. **ABAP ADT Extensions**  
    - *Descrição*: Extensões adicionais para o ABAP Development Tools, trazendo recursos aprimorados para desenvolvimento ABAP.  
