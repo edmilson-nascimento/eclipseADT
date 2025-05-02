@@ -41,50 +41,47 @@ Para mais informações, visite o [repositório oficial](https://github.com/SAP/
 
 ### Plugins Instalados
 
-A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABAP no Eclipse. Estes plugins foram cuidadosamente selecionados para aumentar a produtividade e facilitar diversas tarefas de desenvolvimento, desde a administração de código-fonte até a melhoria na formatação e navegação.
+A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABAP no Eclipse. Esses plugins foram cuidadosamente selecionados para otimizar a produtividade e melhorar a experiência de desenvolvimento.
 
 1. **Eclipse Marketplace Client**  
    - **Descrição:** Cliente indispensável para a instalação e gerenciamento de plugins no Eclipse.  
-   - **Instalação:** [Eclipse Marketplace Client](https://marketplace.eclipse.org/content/eclipse-marketplace-client#external-install-button)  
-   - ![Drag badge](https://marketplace.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_marketplace/images/btn-install.svg)
+   - **Instalação:** [Eclipse Marketplace Client](https://marketplace.eclipse.org/content/eclipse-marketplace-client#external-install-button)
 
 2. **ABAP ADT Extensions**  
-   - **Descrição:** Fornece extensões adicionais para o ABAP Development Tools, aprimorando recursos e facilitando o desenvolvimento ABAP.  
-   - **Instalação:** [ABAP ADT Extensions](https://marketplace.eclipse.org/content/abap-adt-extensions#external-install-button)  
-   - ![Drag badge](https://marketplace.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_marketplace/images/btn-install.svg)
+   - **Descrição:** Fornece extensões adicionais para os ABAP Development Tools, aprimorando recursos essenciais para o desenvolvimento ABAP.  
+   - **Instalação:** [ABAP ADT Extensions](https://marketplace.eclipse.org/content/abap-adt-extensions#external-install-button)
 
 3. **ABAP Favorites**  
-   - **Descrição:** Otimiza o gerenciamento e acesso aos objetos ABAP favoritos, agilizando a produtividade do desenvolvedor.  
-   - **Instalação:** [ABAP Favorites](https://marketplace.eclipse.org/content/abap-favorites#external-install-button)  
-   - ![Drag badge](https://marketplace.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_marketplace/images/btn-install.svg)
+   - **Descrição:** Otimiza o gerenciamento e acesso aos objetos ABAP favoritos, aumentando a produtividade do desenvolvedor.  
+   - **Instalação:** [ABAP Favorites](https://marketplace.eclipse.org/content/abap-favorites#external-install-button)
 
 4. **ABAP Quickfix S/4 Conversion**  
-   - **Descrição:** Fornece correções rápidas para a migração de código ABAP para S/4HANA, acelerando o processo de conversão e garantindo consistência.  
+   - **Descrição:** Facilita a migração de código ABAP para S/4HANA com correções rápidas, garantindo consistência e acelerando processos de conversão.  
    - **Instalação:** [ABAP Quickfix S/4 Conversion](https://marketplace.eclipse.org/content/abap-quick-fix/help)
 
 5. **ADT Classic Outline**  
-   - **Descrição:** Exibe uma visão clássica e simplificada da estrutura do código, facilitando a navegação e compreensão dos componentes ABAP.  
+   - **Descrição:** Oferece uma visualização clássica e simplificada da estrutura do código ABAP, facilitando o entendimento dos componentes.  
    - **Instalação:** [ADT Classic Outline](https://marketplace.eclipse.org/content/adt-classic-outline#external-install-button)
 
-6. **Darkest Dark Theme**  🟢  
-   - **Descrição:** Tema escuro que melhora a visualização do código, reduzindo a fadiga visual durante longas sessões de desenvolvimento.  
+6. **Darkest Dark Theme**  
+   - **Descrição:** Tema escuro que aprimora a visualização do código, reduzindo a fadiga visual durante longas sessões de desenvolvimento.  
    - **Instalação:** [Darkest Dark Theme](https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle#external-install-button)
 
 7. **EclEmma Java Code Coverage**  
-   - **Descrição:** Ferramenta crucial para análise de cobertura de código, ajudando a identificar áreas com menor testagem e garantindo a qualidade do software.  
+   - **Descrição:** Ferramenta essencial para análise da cobertura de código, permitindo identificar áreas com menor teste e garantindo a qualidade do software.  
    - **Instalação:** [EclEmma Java Code Coverage](https://marketplace.eclipse.org/content/eclemma-java-code-coverage#external-install-button)
 
 8. **Eclipse XML Editors and Tools**  
-   - **Descrição:** Conjunto de ferramentas avançadas para edição e manipulação de arquivos XML, integrado ao ambiente Eclipse para fornecer maior flexibilidade.  
+   - **Descrição:** Conjunto de ferramentas avançadas para edição e manipulação de arquivos XML, oferecendo maior flexibilidade dentro do Eclipse.  
    - **Instalação:** [Eclipse XML Editors and Tools](https://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools#external-install-button)
 
-9. **EGit**  🟢  
-   - **Descrição:** Integração completa com o Git, permitindo um controle de versão eficaz diretamente no Eclipse.  
+9. **EGit**  
+   - **Descrição:** Integração completa com o Git, possibilitando o controle de versão diretamente no Eclipse.  
    - **Recursos Adicionais:**  
-     - [EGit User Guide](https://wiki.eclipse.org/EGit/User_Guide/)  
-     - [Git no Eclipse (Vogella)](https://www.vogella.com/tutorials/EclipseGit/article.html)  
+      - [EGit User Guide](https://wiki.eclipse.org/EGit/User_Guide/)  
+      - [Git no Eclipse (Vogella)](https://www.vogella.com/tutorials/EclipseGit/article.html)  
    - **Instalação:** [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse#external-install-button)
 
 10. **Relative Line Number Ruler**  
-    - **Descrição:** Exibe números de linha em formato relativo, facilitando a navegação e as referências no código durante a edição.  
+    - **Descrição:** Exibe números de linha em formato relativo, facilitando a navegação e referências durante a edição do código.  
     - **Instalação:** [Relative Line Number Ruler](https://marketplace.eclipse.org/content/relative-line-number-ruler#external-install-button)
