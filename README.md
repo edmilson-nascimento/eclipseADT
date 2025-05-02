@@ -52,10 +52,13 @@ A seguir, encontra-se uma lista organizada dos plugins essenciais para desenvolv
 2. **ABAP ADT Extensions**  
    - *Descrição*: Extensões adicionais para o ABAP Development Tools, trazendo recursos aprimorados para desenvolvimento ABAP.  
    - *Link*: [ABAP ADT Extensions](https://marketplace.eclipse.org/content/abap-adt-extensions#external-install-button)
+[![Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_marketplace/images/btn-install.svg)](/marketplace-client-intro?mpc_install=4441477"Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client")
 
 3. **ABAP Favorites**  
    - *Descrição*: Facilita o gerenciamento e acesso aos objetos ABAP favoritos, otimizando a produtividade.  
    - *Link*: [ABAP Favorites](https://marketplace.eclipse.org/content/abap-favorites#external-install-button)
+   [![Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client](https://marketplace.eclipse.org/modules/custom/eclipsefdn/eclipsefdn_marketplace/images/btn-install.svg)](/marketplace-client-intro?mpc_install=3522403"Drag to your running Eclipse* workspace. *Requires Eclipse Marketplace Client")
+
 
 4. **ABAP Quickfix S/4 Conversion**  
    - *Descrição*: Providencia correções rápidas para a migração de código para S/4HANA, agilizando processos de conversão.  
