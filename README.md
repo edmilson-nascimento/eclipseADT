@@ -131,21 +131,21 @@ A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABA
    - **Descrição:** Tema escuro que aprimora a visualização do código, reduzindo a fadiga visual durante longas sessões de desenvolvimento.  
    - **Instalação:** [Darkest Dark Theme](https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle#external-install-button)
 
-7. **EclEmma Java Code Coverage**  
-   - **Descrição:** Ferramenta essencial para análise da cobertura de código, permitindo identificar áreas com menor teste e garantindo a qualidade do software.  
-   - **Instalação:** [EclEmma Java Code Coverage](https://marketplace.eclipse.org/content/eclemma-java-code-coverage#external-install-button)
+7. ~~**EclEmma Java Code Coverage**~~   
+   - ~~**Descrição:** Ferramenta essencial para análise da cobertura de código, permitindo identificar áreas com menor teste e garantindo a qualidade do software.~~
+   - ~~**Instalação:** [EclEmma Java Code Coverage](https://marketplace.eclipse.org/content/eclemma-java-code-coverage#external-install-button)~~
 
-8. **Eclipse XML Editors and Tools**  
-   - **Descrição:** Conjunto de ferramentas avançadas para edição e manipulação de arquivos XML, oferecendo maior flexibilidade dentro do Eclipse.  
-   - **Instalação:** [Eclipse XML Editors and Tools](https://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools#external-install-button)
+8. ~~**Eclipse XML Editors and Tools**~~  
+   ~~- **Descrição:** Conjunto de ferramentas avançadas para edição e manipulação de arquivos XML, oferecendo maior flexibilidade dentro do Eclipse.~~  
+   ~~- **Instalação:** [Eclipse XML Editors and Tools](https://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools#external-install-button)~~
 
-9. **EGit**  
-   - **Descrição:** Integração completa com o Git, possibilitando o controle de versão diretamente no Eclipse.  
-   - **Recursos Adicionais:**  
-      - [EGit User Guide](https://wiki.eclipse.org/EGit/User_Guide/)  
-      - [Git no Eclipse (Vogella)](https://www.vogella.com/tutorials/EclipseGit/article.html)  
+9. ~~**EGit**~~  
+   ~~- **Descrição:** Integração completa com o Git, possibilitando o controle de versão diretamente no Eclipse.~~  
+   - ~~**Recursos Adicionais:**~~  
+      - ~~[EGit User Guide](https://wiki.eclipse.org/EGit/User_Guide/)~~  
+      - ~~[Git no Eclipse (Vogella)](https://www.vogella.com/tutorials/EclipseGit/article.html)~~  
    - **Instalação:** [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse#external-install-button)
 
-10. **Relative Line Number Ruler**  
-    - **Descrição:** Exibe números de linha em formato relativo, facilitando a navegação e referências durante a edição do código.  
-    - **Instalação:** [Relative Line Number Ruler](https://marketplace.eclipse.org/content/relative-line-number-ruler#external-install-button)
+10. ~~**Relative Line Number Ruler**~~  
+    - ~~**Descrição:** Exibe números de linha em formato relativo, facilitando a navegação e referências durante a edição do código.~~  
+    - ~~**Instalação:** [Relative Line Number Ruler](https://marketplace.eclipse.org/content/relative-line-number-ruler#external-install-button)~~
