@@ -107,6 +107,8 @@ Para mais informações, consulte o [tutorial oficial do abapGit Plugin](https:/
 
 A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABAP no Eclipse. Esses plugins foram cuidadosamente selecionados para otimizar a produtividade e melhorar a experiência de desenvolvimento.
 
+> A propria busca do Eclipse Marketplace não esta funcionando, então é possivel buscar os apps na ultima abap **Research at the Eclipse** e isso faz uma busca no google direto no site ~~ou vai dar erro na mesma e eu estou apenas perdendo tempo~~.
+
 1. **Eclipse Marketplace Client**  
    - **Descrição:** Cliente indispensável para a instalação e gerenciamento de plugins no Eclipse.  
    - **Instalação:** [Eclipse Marketplace Client](https://marketplace.eclipse.org/content/eclipse-marketplace-client#external-install-button)
