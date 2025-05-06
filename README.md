@@ -95,6 +95,8 @@ O **abapGit Plugin** é uma ferramenta indispensável para desenvolvedores ABAP 
 4. Siga as instruções para concluir a instalação.
 5. Após a instalação, reinicie o Eclipse.
 
+> Parece que eu tive que instalar o **abapGit** mais de uma vez e ele fez downgrade no Eclise, mas, os erros não apareceram mais.
+
 **Como usar:**
 - Após a instalação, o abapGit estará disponível no menu **Window → Show View → Other → abapGit Repositories**.
 - Configure um repositório Git e comece a versionar seus objetos ABAP.
