@@ -67,6 +67,36 @@ O **abapGit Plugin** é uma ferramenta indispensável para desenvolvedores ABAP 
 
 Para mais informações, consulte o [tutorial oficial do abapGit Plugin](https://developers.sap.com/tutorials/abap-install-abapgit-plugin.html).
 
+### ABAP Development Tools (ADT)
+
+O **ABAP Development Tools (ADT)** é uma extensão do Eclipse que fornece um ambiente moderno e eficiente para o desenvolvimento ABAP. Ele é essencial para desenvolvedores que trabalham com sistemas SAP, oferecendo uma interface intuitiva e ferramentas avançadas para codificação, depuração e gerenciamento de objetos ABAP.
+
+**Principais benefícios:**
+- Ambiente de desenvolvimento integrado (IDE) moderno e eficiente.
+- Suporte para desenvolvimento em sistemas SAP S/4HANA e SAP NetWeaver.
+- Ferramentas avançadas para depuração e análise de código.
+- Integração com outras ferramentas, como abapGit e ABAP Cleaner.
+- Melhor experiência de desenvolvimento em comparação ao SE80.
+
+**Instalação:**
+1. Faça o download do Eclipse IDE para Java Developers no site oficial: [Eclipse Downloads](https://www.eclipse.org/downloads/).
+2. Após instalar o Eclipse, vá para **Help → Install New Software**.
+3. Adicione o seguinte repositório:  
+   ```
+   https://tools.hana.ondemand.com/2025-03
+   ```
+4. Na lista de plugins disponíveis, selecione **ABAP Development Tools (ADT)** e clique em **Next**.
+5. Siga as instruções para concluir a instalação.
+6. Após a instalação, reinicie o Eclipse.
+
+**Como usar:**
+- Após a instalação, conecte-se ao sistema SAP usando a opção **File → New → ABAP Project**.
+- Configure o sistema SAP e comece a desenvolver seus objetos ABAP diretamente no Eclipse.
+
+Para mais informações, consulte o [tutorial oficial do ADT](https://developers.sap.com/tutorials/abap-install-adt.html).
+
+---
+
 ### Plugins Instalados
 
 A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABAP no Eclipse. Esses plugins foram cuidadosamente selecionados para otimizar a produtividade e melhorar a experiência de desenvolvimento.
