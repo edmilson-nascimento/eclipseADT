@@ -19,6 +19,12 @@ Eclipse ADT | Versão França
 
 Este repositório contém uma versão personalizada do Eclipse ADT com plugins pré-configurados para desenvolvimento ABAP. As atualizações serão realizadas de forma controlada para garantir a estabilidade do ambiente.
 
+> Ainda em testes, mas fiz a instalação do temurin jdk 24 e do eclipse 4.35.0, ambos com suporte a java 21.
+```winget
+winget install EclipseAdoptium.Temurin.24.JDK
+```
+> Não sei se havia algum impedimento, mas eu instalei o eclipse usando o adiministrador e não como usuário comum.
+
 ### ABAP Development Tools (ADT)
 
 O **ABAP Development Tools (ADT)** é uma extensão do Eclipse que fornece um ambiente moderno e eficiente para o desenvolvimento ABAP. Ele é essencial para desenvolvedores que trabalham com sistemas SAP, oferecendo uma interface intuitiva e ferramentas avançadas para codificação, depuração e gerenciamento de objetos ABAP.
