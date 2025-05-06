@@ -12,7 +12,7 @@ Eclipse ADT | Versão França
 ![Static Badge](https://img.shields.io/badge/Eclipse_ADT-2C2255?logo=eclipse&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/BTP-0FAAFF?logo=sap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Cloud-0089D6?logo=sap&logoColor=white)
-![Static Badge](https://img.shields.io/badge/SAP_DevOps-FF4081?logo=sap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SAP_DevOps-050002?logo=sap&logoColor=white)
 
 [![ABAP Cleaner](https://img.shields.io/github/stars/SAP/abap-cleaner?label=ABAP%20Cleaner&style=social)](https://github.com/SAP/abap-cleaner)
 [![abapGit](https://img.shields.io/github/stars/larshp/abapGit?label=abapGit&style=social)](https://github.com/larshp/abapGit)
