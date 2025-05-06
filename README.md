@@ -23,12 +23,6 @@ Este repositório contém uma versão personalizada do Eclipse ADT com plugins p
 ```winget
 winget install EclipseAdoptium.Temurin.24.JDK
 ```
-> Não sei se havia algum impedimento, mas eu instalei o eclipse usando o adiministrador e não como usuário comum.
-```winget
-winget search "Eclipse IDE"
-...
-winget install  EclipseFoundation.EclipseIDEforJavaDevelopers
-```
 
 ### ABAP Development Tools (ADT)
 
@@ -72,12 +66,14 @@ O ABAP Cleaner é uma ferramenta essencial para desenvolvedores ABAP que automat
 
 **Instalação:**
 1. No Eclipse, vá para Help → Install New Software
-2. Adicione o repositório: https://sap.github.io/abap-cleaner/updatesite
+2. Adicione o repositório: 
+   ```
+   https://sap.github.io/abap-cleaner/updatesite
+   ```
 3. Selecione "ABAP Cleaner" e complete a instalação
 
 Para mais informações, visite o [repositório oficial](https://github.com/SAP/abap-cleaner).
 
----
 
 ### abapGit Plugin
 
