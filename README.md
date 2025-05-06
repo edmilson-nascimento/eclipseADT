@@ -39,6 +39,34 @@ O ABAP Cleaner é uma ferramenta essencial para desenvolvedores ABAP que automat
 
 Para mais informações, visite o [repositório oficial](https://github.com/SAP/abap-cleaner).
 
+---
+
+### abapGit Plugin
+
+O **abapGit Plugin** é uma ferramenta indispensável para desenvolvedores ABAP que permite o controle de versão de objetos ABAP diretamente no Eclipse. Ele facilita a integração com repositórios Git, promovendo uma abordagem moderna e colaborativa para o desenvolvimento ABAP.
+
+**Principais benefícios:**
+- Controle de versão para objetos ABAP
+- Integração com repositórios Git (GitHub, GitLab, etc.)
+- Suporte para múltiplos desenvolvedores em projetos ABAP
+- Migração e transporte de objetos ABAP entre sistemas
+
+**Instalação:**
+1. No Eclipse, vá para **Help → Install New Software**.
+2. Adicione o seguinte repositório:  
+   ```
+   https://tools.hana.ondemand.com/2025-03
+   ```
+3. Na lista de plugins disponíveis, selecione **abapGit Plugin** e clique em **Next**.
+4. Siga as instruções para concluir a instalação.
+5. Após a instalação, reinicie o Eclipse.
+
+**Como usar:**
+- Após a instalação, o abapGit estará disponível no menu **Window → Show View → Other → abapGit Repositories**.
+- Configure um repositório Git e comece a versionar seus objetos ABAP.
+
+Para mais informações, consulte o [tutorial oficial do abapGit Plugin](https://developers.sap.com/tutorials/abap-install-abapgit-plugin.html).
+
 ### Plugins Instalados
 
 A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABAP no Eclipse. Esses plugins foram cuidadosamente selecionados para otimizar a produtividade e melhorar a experiência de desenvolvimento.
