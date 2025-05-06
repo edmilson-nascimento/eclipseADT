@@ -89,7 +89,7 @@ O **abapGit Plugin** é uma ferramenta indispensável para desenvolvedores ABAP 
 1. No Eclipse, vá para **Help → Install New Software**.
 2. Adicione o seguinte repositório:  
    ```
-   https://tools.hana.ondemand.com/2025-03
+   https://eclipse.abapgit.org/updatesite/
    ```
 3. Na lista de plugins disponíveis, selecione **abapGit Plugin** e clique em **Next**.
 4. Siga as instruções para concluir a instalação.
@@ -101,7 +101,6 @@ O **abapGit Plugin** é uma ferramenta indispensável para desenvolvedores ABAP 
 
 Para mais informações, consulte o [tutorial oficial do abapGit Plugin](https://developers.sap.com/tutorials/abap-install-abapgit-plugin.html).
 
----
 
 ### Plugins Instalados
 
@@ -109,25 +108,27 @@ A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABA
 
 > A propria busca do Eclipse Marketplace não esta funcionando, então é possivel buscar os apps na ultima abap **Research at the Eclipse** e isso faz uma busca no google direto no site ~~ou vai dar erro na mesma e eu estou apenas perdendo tempo~~.
 
-1. **Eclipse Marketplace Client**  
-   - **Descrição:** Cliente indispensável para a instalação e gerenciamento de plugins no Eclipse.  
-   - **Instalação:** [Eclipse Marketplace Client](https://marketplace.eclipse.org/content/eclipse-marketplace-client#external-install-button)
+1. ~~**Eclipse Marketplace Client**~~  
+   - ~~**Descrição:** Cliente indispensável para a instalação e gerenciamento de plugins no Eclipse.~~  
+   - ~~**Instalação:** [Eclipse Marketplace Client](https://marketplace.eclipse.org/content/eclipse-marketplace-client#external-install-button)~~
 
-2. **ABAP ADT Extensions**  
-   - **Descrição:** Fornece extensões adicionais para os ABAP Development Tools, aprimorando recursos essenciais para o desenvolvimento ABAP.  
-   - **Instalação:** [ABAP ADT Extensions](https://marketplace.eclipse.org/content/abap-adt-extensions#external-install-button)
+2. ~~**ABAP ADT Extensions**~~  
+   - ~~**Descrição:** Fornece extensões adicionais para os ABAP Development Tools, aprimorando recursos essenciais para o desenvolvimento ABAP.~~  
+   - ~~**Instalação:** [ABAP ADT Extensions](https://marketplace.eclipse.org/content/abap-adt-extensions#external-install-button)~~
 
-3. **ABAP Favorites**  
-   - **Descrição:** Otimiza o gerenciamento e acesso aos objetos ABAP favoritos, aumentando a produtividade do desenvolvedor.  
-   - **Instalação:** [ABAP Favorites](https://marketplace.eclipse.org/content/abap-favorites#external-install-button)
+3. ~~**ABAP Favorites**~~  
+   - ~~**Descrição:** Otimiza o gerenciamento e acesso aos objetos ABAP favoritos, aumentando a produtividade do desenvolvedor.~~  
+   - ~~**Instalação:** [ABAP Favorites](https://marketplace.eclipse.org/content/abap-favorites#external-install-button)~~
 
-4. **ABAP Quickfix S/4 Conversion**  
+4. **ABAP Quickfix S/4 Conversion** 
    - **Descrição:** Facilita a migração de código ABAP para S/4HANA com correções rápidas, garantindo consistência e acelerando processos de conversão.  
    - **Instalação:** [ABAP Quickfix S/4 Conversion](https://marketplace.eclipse.org/content/abap-quick-fix/help)
+   Esse tem varios componentes e não precisa ser instalado, apenas o **ABAP Quickfix S/4 Conversion**.
+   ![ABAP Quickfix S/4 Conversion](abap%20quick%20fix.png)
 
-5. **ADT Classic Outline**  
-   - **Descrição:** Oferece uma visualização clássica e simplificada da estrutura do código ABAP, facilitando o entendimento dos componentes.  
-   - **Instalação:** [ADT Classic Outline](https://marketplace.eclipse.org/content/adt-classic-outline#external-install-button)
+5. ~~**ADT Classic Outline**~~  
+   - ~~**Descrição:** Oferece uma visualização clássica e simplificada da estrutura do código ABAP, facilitando o entendimento dos componentes.~~  
+   - ~~**Instalação:** [ADT Classic Outline](https://marketplace.eclipse.org/content/adt-classic-outline#external-install-button)~~
 
 6. **Darkest Dark Theme**  
    - **Descrição:** Tema escuro que aprimora a visualização do código, reduzindo a fadiga visual durante longas sessões de desenvolvimento.  
