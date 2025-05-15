@@ -18,7 +18,7 @@
 
 Este repositório contém uma versão personalizada do Eclipse ADT com plugins pré-configurados para desenvolvimento ABAP. As atualizações serão realizadas de forma controlada para garantir a estabilidade do ambiente.
 
-> Ainda em testes, mas fiz a instalação do temurin jdk 24 e do eclipse 4.35.0, ambos com suporte a java 21.
+> Ainda em testes, mas realizei a instalação do Temurin JDK 24 e do Eclipse 4.35.0, ambos com suporte ao Java 21.
 ```winget
 winget install EclipseAdoptium.Temurin.24.JDK
 ```
@@ -94,7 +94,7 @@ O **abapGit Plugin** é uma ferramenta indispensável para desenvolvedores ABAP 
 4. Siga as instruções para concluir a instalação.
 5. Após a instalação, reinicie o Eclipse.
 
-> Parece que eu tive que instalar o **abapGit** mais de uma vez e ele fez downgrade no Eclise, mas, os erros não apareceram mais.
+> Aparentemente foi necessário instalar o **abapGit** mais de uma vez, e ele realizou um downgrade no Eclipse, mas os erros não voltaram a aparecer.
 
 **Como usar:**
 - Após a instalação, o abapGit estará disponível no menu **Window → Show View → Other → abapGit Repositories**.
@@ -107,7 +107,7 @@ Para mais informações, consulte o [tutorial oficial do abapGit Plugin](https:/
 
 A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABAP no Eclipse. Esses plugins foram cuidadosamente selecionados para otimizar a produtividade e melhorar a experiência de desenvolvimento.
 
-> A propria busca do Eclipse Marketplace não esta funcionando, então é possivel buscar os apps na ultima abap **Research at the Eclipse** e isso faz uma busca no google direto no site ~~ou vai dar erro na mesma e eu estou apenas perdendo tempo~~. Continua sem funcionar bem e eu não vou debugar isso.
+> O próprio mecanismo de busca do Eclipse Marketplace não está funcionando. É possível buscar as aplicações através da opção **Research at the Eclipse**, que realiza uma pesquisa direta no site. ~~Continua sem funcionar bem e eu não vou debugar isso.~~
 
 1. ~~**Eclipse Marketplace Client**~~  
    - ~~**Descrição:** Cliente indispensável para a instalação e gerenciamento de plugins no Eclipse.~~  
@@ -124,7 +124,8 @@ A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABA
 4. **ABAP Quickfix S/4 Conversion** 
    - **Descrição:** Facilita a migração de código ABAP para S/4HANA com correções rápidas, garantindo consistência e acelerando processos de conversão.  
    - **Instalação:** [ABAP Quickfix S/4 Conversion](https://marketplace.eclipse.org/content/abap-quick-fix/help)
-   Esse tem varios componentes e não precisa ser instalado, apenas o **ABAP Quickfix S/4 Conversion**.
+   
+   Este plugin possui vários componentes, porém apenas o **ABAP Quickfix S/4 Conversion** precisa ser instalado.
    ![ABAP Quickfix S/4 Conversion](abap%20quick%20fix.png)
 
 5. ~~**ADT Classic Outline**~~  
