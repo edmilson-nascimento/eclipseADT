@@ -148,7 +148,7 @@ A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABA
    - ~~**Recursos Adicionais:**~~  
       - ~~[EGit User Guide](https://wiki.eclipse.org/EGit/User_Guide/)~~  
       - ~~[Git no Eclipse (Vogella)](https://www.vogella.com/tutorials/EclipseGit/article.html)~~  
-   - **Instalação:** [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse#external-install-button)
+   - ~~**Instalação:** [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse#external-install-button)~~
 
 10. ~~**Relative Line Number Ruler**~~  
     - ~~**Descrição:** Exibe números de linha em formato relativo, facilitando a navegação e referências durante a edição do código.~~  
