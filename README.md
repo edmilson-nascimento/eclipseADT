@@ -122,7 +122,10 @@ A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABA
 4. **ABAP Quickfix S/4 Conversion** 
    - **Descrição:** Facilita a migração de código ABAP para S/4HANA com correções rápidas, garantindo consistência e acelerando processos de conversão.  
    - **Instalação:** [ABAP Quickfix S/4 Conversion](https://marketplace.eclipse.org/content/abap-quick-fix/help)
-   
+   ```winget
+   https://fidley.github.io/ADTPluginsUpdateSite/UpdateSite/
+   ```
+
    Este plugin possui vários componentes, porém apenas o **ABAP Quickfix S/4 Conversion** precisa ser instalado.
    ![ABAP Quickfix S/4 Conversion](abap%20quick%20fix.png)
 
