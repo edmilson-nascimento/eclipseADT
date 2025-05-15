@@ -1,7 +1,0 @@
-provides.0.namespace=com.codetogether.hq
-provides.0.name=hq.eclipse.client
-provides.0.version=$version$
-properties.0.name=onpremises-url
-properties.0.value=none
-properties.1.name=onpremises-trust-all
-properties.1.value=false

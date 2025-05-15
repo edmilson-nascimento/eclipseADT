@@ -1,6 +1,0 @@
-requires.0.namespace=com.genuitec.codetogether
-requires.0.name=codetogether.client
-requires.0.range=[$version$,$version$]
-requires.1.namespace=com.codetogether.hq
-requires.1.name=hq.eclipse.client
-requires.1.range=[$version$,$version$]
