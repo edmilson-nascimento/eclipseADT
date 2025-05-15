@@ -1,5 +1,4 @@
 # Eclipse ADT | Versão França
-Eclipse ADT | Versão França
 
 ~~A Versão França não tem nenhum vínculo com o país França, é apenas uma versão personalizada do Eclipse ADT com plugins pré-configurados para desenvolvimento ABAP.~~
 
