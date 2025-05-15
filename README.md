@@ -24,7 +24,7 @@ Este repositório contém uma versão personalizada do Eclipse ADT com plugins p
 winget install EclipseAdoptium.Temurin.24.JDK
 ```
 
-### ABAP Development Tools (ADT)
+### ![Static Badge](https://img.shields.io/badge/SAP-ADT-0FAAFF?logo=sap&logoColor=white) ABAP Development Tools (ADT)
 
 O **ABAP Development Tools (ADT)** é uma extensão do Eclipse que fornece um ambiente moderno e eficiente para o desenvolvimento ABAP. Ele é essencial para desenvolvedores que trabalham com sistemas SAP, oferecendo uma interface intuitiva e ferramentas avançadas para codificação, depuração e gerenciamento de objetos ABAP.
 
@@ -52,7 +52,7 @@ O **ABAP Development Tools (ADT)** é uma extensão do Eclipse que fornece um am
 
 Para mais informações, consulte o [tutorial oficial do ADT](https://developers.sap.com/tutorials/abap-install-adt.html).
 
-### ABAP Cleaner
+### ![Static Badge](https://img.shields.io/badge/SAP-ABAP_Cleaner-0FAAFF?logo=sap&logoColor=white) ABAP Cleaner
 
 O ABAP Cleaner é uma ferramenta essencial para desenvolvedores ABAP que automatiza a formatação e melhoria do código. 
 
@@ -75,7 +75,7 @@ O ABAP Cleaner é uma ferramenta essencial para desenvolvedores ABAP que automat
 Para mais informações, visite o [repositório oficial](https://github.com/SAP/abap-cleaner).
 
 
-### abapGit Plugin
+### ![Static Badge](https://img.shields.io/badge/Git-abapGit-F05032?logo=git&logoColor=white) abapGit Plugin
 
 O **abapGit Plugin** é uma ferramenta indispensável para desenvolvedores ABAP que permite o controle de versão de objetos ABAP diretamente no Eclipse. Ele facilita a integração com repositórios Git, promovendo uma abordagem moderna e colaborativa para o desenvolvimento ABAP.
 
