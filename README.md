@@ -157,3 +157,4 @@ A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABA
 10. ~~**Relative Line Number Ruler**~~  
     - ~~**Descrição:** Exibe números de linha em formato relativo, facilitando a navegação e referências durante a edição do código.~~  
     - ~~**Instalação:** [Relative Line Number Ruler](https://marketplace.eclipse.org/content/relative-line-number-ruler#external-install-button)~~
+    
