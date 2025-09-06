@@ -16,11 +16,6 @@
 
 Este repositório contém uma versão personalizada do Eclipse ADT com plugins pré-configurados para desenvolvimento ABAP. As atualizações serão realizadas de forma controlada para garantir a estabilidade do ambiente.
 
-> Ainda em testes, mas realizei a instalação do Temurin JDK 24 e do Eclipse 4.35.0, ambos com suporte ao Java 21.
-```winget
-winget install EclipseAdoptium.Temurin.24.JDK
-```
-
 ### ![Static Badge](https://img.shields.io/badge/SAP-ADT-0FAAFF?logo=sap&logoColor=white) ABAP Development Tools (ADT)
 
 O **ABAP Development Tools (ADT)** é uma extensão do Eclipse que fornece um ambiente moderno e eficiente para o desenvolvimento ABAP. Ele é essencial para desenvolvedores que trabalham com sistemas SAP, oferecendo uma interface intuitiva e ferramentas avançadas para codificação, depuração e gerenciamento de objetos ABAP.
@@ -157,4 +152,3 @@ A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABA
 10. ~~**Relative Line Number Ruler**~~  
     - ~~**Descrição:** Exibe números de linha em formato relativo, facilitando a navegação e referências durante a edição do código.~~  
     - ~~**Instalação:** [Relative Line Number Ruler](https://marketplace.eclipse.org/content/relative-line-number-ruler#external-install-button)~~
-    
