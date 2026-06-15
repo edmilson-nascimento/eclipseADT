@@ -106,59 +106,40 @@ O **abapGit Plugin** é uma ferramenta indispensável para desenvolvedores ABAP 
 Para mais informações, consulte o [tutorial oficial do abapGit Plugin](https://developers.sap.com/tutorials/abap-install-abapgit-plugin.html).
 
 
-### Plugins Instalados
+### ![Static Badge](https://img.shields.io/badge/SAP-ABAP_Quickfix_S%2F4-0FAAFF?logo=sap&logoColor=white) ABAP Quickfix S/4 Conversion
 
-A seguir, uma lista organizada dos plugins essenciais para o desenvolvimento ABAP no Eclipse. Esses plugins foram cuidadosamente selecionados para otimizar a produtividade e melhorar a experiência de desenvolvimento.
+O **ABAP Quickfix S/4 Conversion** facilita a migração de código ABAP para S/4HANA com correções rápidas (quick fixes), garantindo consistência e acelerando os processos de conversão.
 
-> O próprio mecanismo de busca do Eclipse Marketplace não está funcionando. É possível buscar as aplicações através da opção **Research at the Eclipse**, que realiza uma pesquisa direta no site. ~~Continua sem funcionar bem e eu não vou debugar isso.~~
+**Principais benefícios:**
+- Correções rápidas para adequação do código ao S/4HANA
+- Maior consistência durante a migração de objetos
+- Aceleração dos processos de conversão
 
-1. ~~**Eclipse Marketplace Client**~~  
-   - ~~**Descrição:** Cliente indispensável para a instalação e gerenciamento de plugins no Eclipse.~~  
-   - ~~**Instalação:** [Eclipse Marketplace Client](https://marketplace.eclipse.org/content/eclipse-marketplace-client#external-install-button)~~
-
-2. ~~**ABAP ADT Extensions**~~  
-   - ~~**Descrição:** Fornece extensões adicionais para os ABAP Development Tools, aprimorando recursos essenciais para o desenvolvimento ABAP.~~  
-   - ~~**Instalação:** [ABAP ADT Extensions](https://marketplace.eclipse.org/content/abap-adt-extensions#external-install-button)~~
-
-3. ~~**ABAP Favorites**~~  
-   - ~~**Descrição:** Otimiza o gerenciamento e acesso aos objetos ABAP favoritos, aumentando a produtividade do desenvolvedor.~~  
-   - ~~**Instalação:** [ABAP Favorites](https://marketplace.eclipse.org/content/abap-favorites#external-install-button)~~
-
-4. **ABAP Quickfix S/4 Conversion** 
-   - **Descrição:** Facilita a migração de código ABAP para S/4HANA com correções rápidas, garantindo consistência e acelerando processos de conversão.  
-   - **Instalação:** [ABAP Quickfix S/4 Conversion](https://marketplace.eclipse.org/content/abap-quick-fix/help)
-
-   ```winget
+**Instalação:**
+1. No Eclipse, vá para **Help → Install New Software**.
+2. Adicione o seguinte repositório:  
+   ```
    https://fidley.github.io/ADTPluginsUpdateSite/UpdateSite/
    ```
+3. Na lista de plugins disponíveis, selecione **ABAP Quickfix S/4 Conversion** e clique em **Next**.
+4. Siga as instruções para concluir a instalação.
+5. Após a instalação, reinicie o Eclipse.
 
-   Este plugin possui vários componentes, porém apenas o **ABAP Quickfix S/4 Conversion** precisa ser instalado.
-   
-   ![ABAP Quickfix S/4 Conversion](abap%20quick%20fix.png)
+> Este plugin possui vários componentes, porém apenas o **ABAP Quickfix S/4 Conversion** precisa ser instalado.
 
-5. ~~**ADT Classic Outline**~~  
-   - ~~**Descrição:** Oferece uma visualização clássica e simplificada da estrutura do código ABAP, facilitando o entendimento dos componentes.~~  
-   - ~~**Instalação:** [ADT Classic Outline](https://marketplace.eclipse.org/content/adt-classic-outline#external-install-button)~~
+![ABAP Quickfix S/4 Conversion](abap%20quick%20fix.png)
 
-6. **Darkest Dark Theme**  
-   - **Descrição:** Tema escuro que aprimora a visualização do código, reduzindo a fadiga visual durante longas sessões de desenvolvimento.  
-   - **Instalação:** [Darkest Dark Theme](https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle#external-install-button)
+Para mais informações, consulte a [página oficial do plugin](https://marketplace.eclipse.org/content/abap-quick-fix/help).
 
-7. ~~**EclEmma Java Code Coverage**~~   
-   - ~~**Descrição:** Ferramenta essencial para análise da cobertura de código, permitindo identificar áreas com menor teste e garantindo a qualidade do software.~~
-   - ~~**Instalação:** [EclEmma Java Code Coverage](https://marketplace.eclipse.org/content/eclemma-java-code-coverage#external-install-button)~~
+### ![Static Badge](https://img.shields.io/badge/Eclipse-Darkest_Dark_Theme-2C2255?logo=eclipse&logoColor=white) Darkest Dark Theme `(opcional)`
 
-8. ~~**Eclipse XML Editors and Tools**~~  
-   ~~- **Descrição:** Conjunto de ferramentas avançadas para edição e manipulação de arquivos XML, oferecendo maior flexibilidade dentro do Eclipse.~~  
-   ~~- **Instalação:** [Eclipse XML Editors and Tools](https://marketplace.eclipse.org/content/eclipse-xml-editors-and-tools#external-install-button)~~
+O **Darkest Dark Theme** é um tema escuro que aprimora a visualização do código, reduzindo a fadiga visual durante longas sessões de desenvolvimento.
 
-9. ~~**EGit**~~  
-   ~~- **Descrição:** Integração completa com o Git, possibilitando o controle de versão diretamente no Eclipse.~~  
-   - ~~**Recursos Adicionais:**~~  
-      - ~~[EGit User Guide](https://wiki.eclipse.org/EGit/User_Guide/)~~  
-      - ~~[Git no Eclipse (Vogella)](https://www.vogella.com/tutorials/EclipseGit/article.html)~~  
-   - ~~**Instalação:** [EGit](https://marketplace.eclipse.org/content/egit-git-integration-eclipse#external-install-button)~~
+> [!WARNING]
+> Este plugin **não possui bom suporte às atualizações de versão do Eclipse**. Após atualizar o Eclipse, ele pode apresentar incompatibilidades ou parar de funcionar. Use-o apenas se o tema for realmente necessário.
 
-10. ~~**Relative Line Number Ruler**~~  
-    - ~~**Descrição:** Exibe números de linha em formato relativo, facilitando a navegação e referências durante a edição do código.~~  
-    - ~~**Instalação:** [Relative Line Number Ruler](https://marketplace.eclipse.org/content/relative-line-number-ruler#external-install-button)~~
+**Instalação:**
+1. No Eclipse, vá para **Help → Install New Software**.
+2. Adicione o repositório a partir da página oficial: [Darkest Dark Theme](https://marketplace.eclipse.org/content/darkest-dark-theme-devstyle#external-install-button).
+3. Siga as instruções para concluir a instalação.
+4. Após a instalação, reinicie o Eclipse.
