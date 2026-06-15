@@ -21,6 +21,7 @@ Este repositório contém uma versão personalizada do Eclipse ADT com plugins p
 - [ABAP Cleaner](#-abap-cleaner)
 - [abapGit Plugin](#-abapgit-plugin)
 - [ABAP Quickfix S/4 Conversion](#-abap-quickfix-s4-conversion)
+- [ABAP Favorites](#-abap-favorites)
 - [Darkest Dark Theme (opcional)](#-darkest-dark-theme-opcional)
 
 ## ![Static Badge](https://img.shields.io/badge/Eclipse-IDE-2C2255?logo=eclipse&logoColor=white) Download do Eclipse
@@ -141,6 +142,30 @@ O **ABAP Quickfix S/4 Conversion** facilita a migração de código ABAP para S/
 ![ABAP Quickfix S/4 Conversion](abap%20quick%20fix.png)
 
 Para mais informações, consulte a [página oficial do plugin](https://marketplace.eclipse.org/content/abap-quick-fix/help).
+
+## ![Static Badge](https://img.shields.io/badge/SAP-ABAP_Favorites-0FAAFF?logo=sap&logoColor=white) ABAP Favorites
+
+O **ABAP Favorites** permite armazenar localmente seus favoritos — transações, programas, URLs e objetos de desenvolvimento — funcionando como um substituto do menu de usuário (User Menu) do SAP GUI.
+
+**Principais benefícios:**
+- Acesso rápido a objetos de desenvolvimento favoritos
+- Organização de transações, programas e URLs
+- Substituto do menu de usuário (User Menu) do SAP GUI
+- Aumento de produtividade no dia a dia
+
+**Instalação:**
+1. No Eclipse, vá para **Help → Install New Software**.
+2. Adicione o seguinte repositório:  
+   ```
+   https://fidley.github.io/ADTPluginsUpdateSite/UpdateSite/
+   ```
+3. Na lista de plugins disponíveis, selecione **ABAP Favorites** e clique em **Next**.
+4. Siga as instruções para concluir a instalação.
+5. Após a instalação, reinicie o Eclipse.
+
+> Este plugin é distribuído no mesmo update site do **ABAP Quickfix S/4 Conversion**; basta selecionar o componente **ABAP Favorites** na lista.
+
+Para mais informações, consulte a [página oficial do plugin](https://marketplace.eclipse.org/content/abap-favorites).
 
 ## ![Static Badge](https://img.shields.io/badge/Eclipse-Darkest_Dark_Theme-2C2255?logo=eclipse&logoColor=white) Darkest Dark Theme (opcional)
 
