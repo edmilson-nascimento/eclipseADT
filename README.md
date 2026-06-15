@@ -12,10 +12,19 @@
 ![Static Badge](https://img.shields.io/badge/RAP-050002?logo=sap&logoColor=white)
 
 [![ABAP Development Tools](https://img.shields.io/badge/ABAP_Development_Tools-2C2255?logo=eclipse&logoColor=white)](https://tools.hana.ondemand.com/)
-[![ABAP Cleaner](https://img.shields.io/github/stars/SAP/abap-cleaner?label=ABAP%20Cleaner&style=social)](https://github.com/SAP/abap-cleaner)
-[![abapGit](https://img.shields.io/github/stars/larshp/abapGit?label=abapGit&style=social)](https://github.com/larshp/abapGit)
+[![ABAP Cleaner](https://img.shields.io/badge/ABAP_Cleaner-0FAAFF?logo=sap&logoColor=white)](https://github.com/SAP/abap-cleaner)
+[![abapGit](https://img.shields.io/badge/abapGit-F05032?logo=git&logoColor=white)](https://github.com/larshp/abapGit)
 
 Este repositório contém uma versão personalizada do Eclipse ADT com plugins pré-configurados para desenvolvimento ABAP. As atualizações serão realizadas de forma controlada para garantir a estabilidade do ambiente.
+
+## Sumário
+
+- [Download do Eclipse](#-download-do-eclipse)
+- [ABAP Development Tools (ADT)](#-abap-development-tools-adt)
+- [ABAP Cleaner](#-abap-cleaner)
+- [abapGit Plugin](#-abapgit-plugin)
+- [ABAP Quickfix S/4 Conversion](#-abap-quickfix-s4-conversion)
+- [Darkest Dark Theme (opcional)](#-darkest-dark-theme-opcional)
 
 ### ![Static Badge](https://img.shields.io/badge/Eclipse-IDE-2C2255?logo=eclipse&logoColor=white) Download do Eclipse
 
@@ -56,7 +65,7 @@ Para mais informações, consulte o [tutorial oficial do ADT](https://developers
 
 ### ![Static Badge](https://img.shields.io/badge/SAP-ABAP_Cleaner-0FAAFF?logo=sap&logoColor=white) ABAP Cleaner
 
-O ABAP Cleaner é uma ferramenta essencial para desenvolvedores ABAP que automatiza a formatação e melhoria do código. 
+O **ABAP Cleaner** é uma ferramenta essencial para desenvolvedores ABAP que automatiza a formatação e melhoria do código.
 
 **Principais benefícios:**
 - Formatação consistente do código ABAP
@@ -67,12 +76,14 @@ O ABAP Cleaner é uma ferramenta essencial para desenvolvedores ABAP que automat
 - Aplicação de boas práticas de desenvolvimento
 
 **Instalação:**
-1. No Eclipse, vá para Help → Install New Software
-2. Adicione o repositório: 
+1. No Eclipse, vá para **Help → Install New Software**.
+2. Adicione o seguinte repositório:  
    ```
    https://sap.github.io/abap-cleaner/updatesite
    ```
-3. Selecione "ABAP Cleaner" e complete a instalação
+3. Na lista de plugins disponíveis, selecione **ABAP Cleaner** e clique em **Next**.
+4. Siga as instruções para concluir a instalação.
+5. Após a instalação, reinicie o Eclipse.
 
 Para mais informações, visite o [repositório oficial](https://github.com/SAP/abap-cleaner).
 
