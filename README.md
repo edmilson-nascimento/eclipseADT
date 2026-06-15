@@ -28,7 +28,7 @@ O **ABAP Development Tools (ADT)** é uma extensão do Eclipse que fornece um am
 - Melhor experiência de desenvolvimento em comparação ao SE80.
 
 **Instalação:**
-1. Faça o download do **Eclipse IDE for Java Developers** no site oficial: [Eclipse Downloads](https://www.eclipse.org/downloads/packages/release/2025-03/r/eclipse-ide-java-developers).
+1. Faça o download do **Eclipse IDE for Java Developers** no site oficial: [Eclipse Downloads](https://tools.hana.ondemand.com/).
 2. Após instalar o Eclipse, vá para **Help → Install New Software**.
 3. Adicione o seguinte repositório:  
    ```
