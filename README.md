@@ -3,12 +3,9 @@
 ![Static Badge](https://img.shields.io/badge/eclipse-4.35.0-2C2255?logo=eclipse&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/eclipse%20adt-4.35.0-2C2255?logo=eclipse&logoColor=white)
 
-![Static Badge](https://img.shields.io/badge/development-abap-blue)
 ![Static Badge](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/ABAP-0FAAFF?logo=sap&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Eclipse_ADT-2C2255?logo=eclipse&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/BTP-0FAAFF?logo=sap&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Cloud-0089D6?logo=sap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/RAP-050002?logo=sap&logoColor=white)
 
 [![ABAP Development Tools](https://img.shields.io/badge/ABAP_Development_Tools-2C2255?logo=eclipse&logoColor=white)](https://tools.hana.ondemand.com/)
@@ -26,9 +23,12 @@ Este repositório contém uma versão personalizada do Eclipse ADT com plugins p
 - [ABAP Quickfix S/4 Conversion](#-abap-quickfix-s4-conversion)
 - [Darkest Dark Theme (opcional)](#-darkest-dark-theme-opcional)
 
-### ![Static Badge](https://img.shields.io/badge/Eclipse-IDE-2C2255?logo=eclipse&logoColor=white) Download do Eclipse
+## ![Static Badge](https://img.shields.io/badge/Eclipse-IDE-2C2255?logo=eclipse&logoColor=white) Download do Eclipse
 
 Antes de instalar os plugins de desenvolvimento ABAP, é necessário ter o **Eclipse IDE for Java Developers** instalado.
+
+> [!NOTE]
+> O Eclipse requer um **JDK (Java Development Kit)** instalado para funcionar. Utilize uma versão compatível com a release do Eclipse escolhida.
 
 **Instalação:**
 1. Acesse o site oficial das ferramentas SAP para Eclipse: [SAP Development Tools](https://tools.hana.ondemand.com/).
@@ -36,7 +36,7 @@ Antes de instalar os plugins de desenvolvimento ABAP, é necessário ter o **Ecl
 3. Extraia/instale o Eclipse e execute-o ao menos uma vez para concluir a configuração inicial.
 4. Com o Eclipse aberto, prossiga com a instalação dos plugins abaixo.
 
-### ![Static Badge](https://img.shields.io/badge/SAP-ADT-0FAAFF?logo=sap&logoColor=white) ABAP Development Tools (ADT)
+## ![Static Badge](https://img.shields.io/badge/SAP-ADT-0FAAFF?logo=sap&logoColor=white) ABAP Development Tools (ADT)
 
 O **ABAP Development Tools (ADT)** é uma extensão do Eclipse que fornece um ambiente moderno e eficiente para o desenvolvimento ABAP. Ele é essencial para desenvolvedores que trabalham com sistemas SAP, oferecendo uma interface intuitiva e ferramentas avançadas para codificação, depuração e gerenciamento de objetos ABAP.
 
@@ -63,7 +63,7 @@ O **ABAP Development Tools (ADT)** é uma extensão do Eclipse que fornece um am
 
 Para mais informações, consulte o [tutorial oficial do ADT](https://developers.sap.com/tutorials/abap-install-adt.html).
 
-### ![Static Badge](https://img.shields.io/badge/SAP-ABAP_Cleaner-0FAAFF?logo=sap&logoColor=white) ABAP Cleaner
+## ![Static Badge](https://img.shields.io/badge/SAP-ABAP_Cleaner-0FAAFF?logo=sap&logoColor=white) ABAP Cleaner
 
 O **ABAP Cleaner** é uma ferramenta essencial para desenvolvedores ABAP que automatiza a formatação e melhoria do código.
 
@@ -88,7 +88,7 @@ O **ABAP Cleaner** é uma ferramenta essencial para desenvolvedores ABAP que aut
 Para mais informações, visite o [repositório oficial](https://github.com/SAP/abap-cleaner).
 
 
-### ![Static Badge](https://img.shields.io/badge/Git-abapGit-F05032?logo=git&logoColor=white) abapGit Plugin
+## ![Static Badge](https://img.shields.io/badge/Git-abapGit-F05032?logo=git&logoColor=white) abapGit Plugin
 
 O **abapGit Plugin** é uma ferramenta indispensável para desenvolvedores ABAP que permite o controle de versão de objetos ABAP diretamente no Eclipse. Ele facilita a integração com repositórios Git, promovendo uma abordagem moderna e colaborativa para o desenvolvimento ABAP.
 
@@ -117,7 +117,7 @@ O **abapGit Plugin** é uma ferramenta indispensável para desenvolvedores ABAP 
 Para mais informações, consulte o [tutorial oficial do abapGit Plugin](https://developers.sap.com/tutorials/abap-install-abapgit-plugin.html).
 
 
-### ![Static Badge](https://img.shields.io/badge/SAP-ABAP_Quickfix_S%2F4-0FAAFF?logo=sap&logoColor=white) ABAP Quickfix S/4 Conversion
+## ![Static Badge](https://img.shields.io/badge/SAP-ABAP_Quickfix_S%2F4-0FAAFF?logo=sap&logoColor=white) ABAP Quickfix S/4 Conversion
 
 O **ABAP Quickfix S/4 Conversion** facilita a migração de código ABAP para S/4HANA com correções rápidas (quick fixes), garantindo consistência e acelerando os processos de conversão.
 
@@ -142,7 +142,7 @@ O **ABAP Quickfix S/4 Conversion** facilita a migração de código ABAP para S/
 
 Para mais informações, consulte a [página oficial do plugin](https://marketplace.eclipse.org/content/abap-quick-fix/help).
 
-### ![Static Badge](https://img.shields.io/badge/Eclipse-Darkest_Dark_Theme-2C2255?logo=eclipse&logoColor=white) Darkest Dark Theme `(opcional)`
+## ![Static Badge](https://img.shields.io/badge/Eclipse-Darkest_Dark_Theme-2C2255?logo=eclipse&logoColor=white) Darkest Dark Theme (opcional)
 
 O **Darkest Dark Theme** é um tema escuro que aprimora a visualização do código, reduzindo a fadiga visual durante longas sessões de desenvolvimento.
 
